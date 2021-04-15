@@ -1,0 +1,5576 @@
+{
+  "FileSummaryOffset": "0x0",
+  "FileSummary": {
+    "Tag": "0x9E2A83C1",
+    "FileVersionUE4": 516,
+    "FileVersionLicenseeUE4": 0,
+    "CustomVersion": {
+      "CustomVersion": null
+    },
+    "TotalHeaderSize": 18546,
+    "PackageFlags": "PKG_RequiresLocalizationGather, PKG_FilterEditorOnly",
+    "FolderName": "None",
+    "NameCount": 337,
+    "NameOffset": 193,
+    "LocalizationId": null,
+    "GatherableTextDataCount": 0,
+    "GatherableTextDataOffset": 0,
+    "ExportCount": 22,
+    "ExportOffset": 15362,
+    "ImportCount": 155,
+    "ImportOffset": 11022,
+    "DependsOffset": 17650,
+    "SoftPackageReferencesCount": 0,
+    "SoftPackageReferencesOffset": 0,
+    "SearchableNamesOffset": 0,
+    "ThumbnailTableOffset": 0,
+    "Guid": {
+      "GUID": "3C5F89B1-49A9709E-C03B6EB5-20E6B2E2"
+    },
+    "Generations": [
+      {
+        "ExportCount": 22,
+        "NameCount": 337
+      }
+    ],
+    "SavedByEngineVersion": {
+      "Major": 0,
+      "Minor": 0,
+      "Patch": 0,
+      "Changelist": 0,
+      "Branch": ""
+    },
+    "CompatibleWithEngineVersion": {
+      "Major": 0,
+      "Minor": 0,
+      "Patch": 0,
+      "Changelist": 0,
+      "Branch": ""
+    },
+    "CompressionFlags": 0,
+    "PackageSource": 51567589,
+    "AssetRegistryDataOffset": 17738,
+    "BulkDataStartOffset": 28322,
+    "WorldTileInfoDataOffset": 0,
+    "ChunkIds": [],
+    "PreloadDependencyCount": 201,
+    "PreloadDependencyOffset": 17742
+  },
+  "NameMapOffset": "0xC1",
+  "Names": [
+    {
+      "Index": 0,
+      "FileOffset": "0xC1",
+      "Name": "/Game/Audio/WeaponsNTools/WPN_BasicPistol/Pistol_Empty_01_Cue",
+      "NonCasePreservingHash": "0xCB58",
+      "CasePreservingHash": "0x86D8"
+    },
+    {
+      "Index": 1,
+      "FileOffset": "0x107",
+      "Name": "/Game/Audio/WeaponsNTools/WPN_BasicPistol/Pistol_NearEmpty_01_Cue",
+      "NonCasePreservingHash": "0xD828",
+      "CasePreservingHash": "0xCEAC"
+    },
+    {
+      "Index": 2,
+      "FileOffset": "0x151",
+      "Name": "/Game/Audio/WeaponsNTools/WPN_FlareGun/FlareGun_Fire_Cue",
+      "NonCasePreservingHash": "0x52BE",
+      "CasePreservingHash": "0x5081"
+    },
+    {
+      "Index": 3,
+      "FileOffset": "0x192",
+      "Name": "/Game/Audio/WeaponsNTools/WPN_FlareGun/FlareGun_Reload_Cue",
+      "NonCasePreservingHash": "0x84F3",
+      "CasePreservingHash": "0x7453"
+    },
+    {
+      "Index": 4,
+      "FileOffset": "0x1D5",
+      "Name": "/Game/Character/Camera/CameraShakes/CameraShake_Item_Flaregun",
+      "NonCasePreservingHash": "0x8C29",
+      "CasePreservingHash": "0x56C6"
+    },
+    {
+      "Index": 5,
+      "FileOffset": "0x21B",
+      "Name": "/Game/Character/Shouts/HandlingWeaponsNTools/Shout_LightUp",
+      "NonCasePreservingHash": "0xB849",
+      "CasePreservingHash": "0x3988"
+    },
+    {
+      "Index": 6,
+      "FileOffset": "0x25E",
+      "Name": "/Game/CharacterStructure/Gear_Assault/FP/FP_Assault_Equip_Montage",
+      "NonCasePreservingHash": "0xF540",
+      "CasePreservingHash": "0x79C8"
+    },
+    {
+      "Index": 7,
+      "FileOffset": "0x2A8",
+      "Name": "/Game/CharacterStructure/Gear_Assault/FP/FP_Assault_Flaregun_Reload_A_Montage",
+      "NonCasePreservingHash": "0xBE7E",
+      "CasePreservingHash": "0x7DB8"
+    },
+    {
+      "Index": 8,
+      "FileOffset": "0x2FE",
+      "Name": "/Game/CharacterStructure/Gear_Assault/FP/FP_Assault_Gunsling_A_Montage",
+      "NonCasePreservingHash": "0x7C8B",
+      "CasePreservingHash": "0xF0E6"
+    },
+    {
+      "Index": 9,
+      "FileOffset": "0x34D",
+      "Name": "/Game/CharacterStructure/Gear_Assault/FP/FP_Shotgun_Shoot_Montage",
+      "NonCasePreservingHash": "0xC254",
+      "CasePreservingHash": "0x9C24"
+    },
+    {
+      "Index": 10,
+      "FileOffset": "0x397",
+      "Name": "/Game/CharacterStructure/Gear_Assault/TP/TP_Assault_EquipDequip_Montage",
+      "NonCasePreservingHash": "0x6F53",
+      "CasePreservingHash": "0xEA00"
+    },
+    {
+      "Index": 11,
+      "FileOffset": "0x3E7",
+      "Name": "/Game/CharacterStructure/Gear_Assault/TP/TP_Assault_Flaregun_Reload_A_Montage",
+      "NonCasePreservingHash": "0x67BD",
+      "CasePreservingHash": "0xD258"
+    },
+    {
+      "Index": 12,
+      "FileOffset": "0x43D",
+      "Name": "/Game/CharacterStructure/Gear_Assault/TP/TP_Assault_Gunsling_A_Montage",
+      "NonCasePreservingHash": "0x1293",
+      "CasePreservingHash": "0xE662"
+    },
+    {
+      "Index": 13,
+      "FileOffset": "0x48C",
+      "Name": "/Game/CharacterStructure/Gear_Assault/TP/TP_Assault_Shoot_Shotgun_Montage",
+      "NonCasePreservingHash": "0xE8EF",
+      "CasePreservingHash": "0xBFC2"
+    },
+    {
+      "Index": 14,
+      "FileOffset": "0x4DE",
+      "Name": "/Game/Game/Text/GearCategories",
+      "NonCasePreservingHash": "0xE609",
+      "CasePreservingHash": "0xB14F"
+    },
+    {
+      "Index": 15,
+      "FileOffset": "0x505",
+      "Name": "/Game/Game/Text/GearCategories.GearCategories",
+      "NonCasePreservingHash": "0xFFC2",
+      "CasePreservingHash": "0x2A59"
+    },
+    {
+      "Index": 16,
+      "FileOffset": "0x53B",
+      "Name": "/Game/UI/Art/Icons/Icons_Gear/GearIcon_Flaregun_Border",
+      "NonCasePreservingHash": "0x5B18",
+      "CasePreservingHash": "0xC844"
+    },
+    {
+      "Index": 17,
+      "FileOffset": "0x57A",
+      "Name": "/Game/UI/Art/Icons/Icons_Gear/GearIcon_Flaregun_Full",
+      "NonCasePreservingHash": "0x8182",
+      "CasePreservingHash": "0x4CD2"
+    },
+    {
+      "Index": 18,
+      "FileOffset": "0x5B7",
+      "Name": "/Game/UI/Menu_Loadout/Assets/GearGraphic_FlareGun",
+      "NonCasePreservingHash": "0x1DFF",
+      "CasePreservingHash": "0xD222"
+    },
+    {
+      "Index": 19,
+      "FileOffset": "0x5F1",
+      "Name": "/Game/UI/Menu_Loadout/Assets/GearGraphic_FlareGun.GearGraphic_FlareGun",
+      "NonCasePreservingHash": "0xE9E4",
+      "CasePreservingHash": "0x7BA1"
+    },
+    {
+      "Index": 20,
+      "FileOffset": "0x640",
+      "Name": "/Game/UI/WeaponDisplays/WeaponDisplay_Base_AmmoCount",
+      "NonCasePreservingHash": "0xE488",
+      "CasePreservingHash": "0x6CA4"
+    },
+    {
+      "Index": 21,
+      "FileOffset": "0x67D",
+      "Name": "/Game/WeaponsNTools/_Crosshairs/NewCrossHairs/HUD_CrossHair_FlareGun",
+      "NonCasePreservingHash": "0x5562",
+      "CasePreservingHash": "0xDF4D"
+    },
+    {
+      "Index": 22,
+      "FileOffset": "0x6CA",
+      "Name": "/Game/WeaponsNTools/_TempAssets/SM_Screen_007",
+      "NonCasePreservingHash": "0xE32C",
+      "CasePreservingHash": "0x6BF5"
+    },
+    {
+      "Index": 23,
+      "FileOffset": "0x700",
+      "Name": "/Game/WeaponsNTools/Animationsets/IAS_Rifle",
+      "NonCasePreservingHash": "0x361A",
+      "CasePreservingHash": "0x2D03"
+    },
+    {
+      "Index": 24,
+      "FileOffset": "0x734",
+      "Name": "/Game/WeaponsNTools/BPL_UpgradeHelpers",
+      "NonCasePreservingHash": "0x8FF2",
+      "CasePreservingHash": "0xA08"
+    },
+    {
+      "Index": 25,
+      "FileOffset": "0x763",
+      "Name": "/Game/WeaponsNTools/FlareGun/ABP_Flaregun_A",
+      "NonCasePreservingHash": "0x41E9",
+      "CasePreservingHash": "0x47BE"
+    },
+    {
+      "Index": 26,
+      "FileOffset": "0x797",
+      "Name": "/Game/WeaponsNTools/FlareGun/ANIM_Flaregun_Reload_A_Montage",
+      "NonCasePreservingHash": "0xE113",
+      "CasePreservingHash": "0xC5C4"
+    },
+    {
+      "Index": 27,
+      "FileOffset": "0x7DB",
+      "Name": "/Game/WeaponsNTools/FlareGun/ANIM_Flaregun_Reload_A_MontageTP",
+      "NonCasePreservingHash": "0xD80C",
+      "CasePreservingHash": "0xFCE"
+    },
+    {
+      "Index": 28,
+      "FileOffset": "0x821",
+      "Name": "/Game/WeaponsNTools/FlareGun/ID_FlareGun",
+      "NonCasePreservingHash": "0xBA0",
+      "CasePreservingHash": "0xC350"
+    },
+    {
+      "Index": 29,
+      "FileOffset": "0x852",
+      "Name": "/Game/WeaponsNTools/FlareGun/M_WPN_Flaregun_Grip01",
+      "NonCasePreservingHash": "0x3473",
+      "CasePreservingHash": "0xFF38"
+    },
+    {
+      "Index": 30,
+      "FileOffset": "0x88D",
+      "Name": "/Game/WeaponsNTools/FlareGun/M_WPN_Flaregun_Metal01",
+      "NonCasePreservingHash": "0x574C",
+      "CasePreservingHash": "0x39B1"
+    },
+    {
+      "Index": 31,
+      "FileOffset": "0x8C9",
+      "Name": "/Game/WeaponsNTools/FlareGun/M_WPN_Flaregun_Metal02",
+      "NonCasePreservingHash": "0x7195",
+      "CasePreservingHash": "0x965F"
+    },
+    {
+      "Index": 32,
+      "FileOffset": "0x905",
+      "Name": "/Game/WeaponsNTools/FlareGun/P_Flaregun_Fire",
+      "NonCasePreservingHash": "0x2F6",
+      "CasePreservingHash": "0xDEED"
+    },
+    {
+      "Index": 33,
+      "FileOffset": "0x93A",
+      "Name": "/Game/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01",
+      "NonCasePreservingHash": "0xDB5F",
+      "CasePreservingHash": "0x9990"
+    },
+    {
+      "Index": 34,
+      "FileOffset": "0x979",
+      "Name": "/Game/WeaponsNTools/FlareGun/PRW_FlareGun",
+      "NonCasePreservingHash": "0x39A8",
+      "CasePreservingHash": "0x44AB"
+    },
+    {
+      "Index": 35,
+      "FileOffset": "0x9AB",
+      "Name": "/Game/WeaponsNTools/FlareGun/PRW_FlareGun.PRW_FlareGun_C",
+      "NonCasePreservingHash": "0x2BAF",
+      "CasePreservingHash": "0xAB56"
+    },
+    {
+      "Index": 36,
+      "FileOffset": "0x9EC",
+      "Name": "/Game/WeaponsNTools/FlareGun/SK_Flaregun_B",
+      "NonCasePreservingHash": "0x89DA",
+      "CasePreservingHash": "0x10A6"
+    },
+    {
+      "Index": 37,
+      "FileOffset": "0xA1F",
+      "Name": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_A_Duration",
+      "NonCasePreservingHash": "0x81AA",
+      "CasePreservingHash": "0xCDF"
+    },
+    {
+      "Index": 38,
+      "FileOffset": "0xA5C",
+      "Name": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_A_MaxAmmo",
+      "NonCasePreservingHash": "0x9A07",
+      "CasePreservingHash": "0x5AC6"
+    },
+    {
+      "Index": 39,
+      "FileOffset": "0xA98",
+      "Name": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_B_ClipSize",
+      "NonCasePreservingHash": "0xFBA5",
+      "CasePreservingHash": "0x2B69"
+    },
+    {
+      "Index": 40,
+      "FileOffset": "0xAD5",
+      "Name": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_B_RoF",
+      "NonCasePreservingHash": "0x30EA",
+      "CasePreservingHash": "0xA0D1"
+    },
+    {
+      "Index": 41,
+      "FileOffset": "0xB0D",
+      "Name": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_C_Autoreload",
+      "NonCasePreservingHash": "0xABC7",
+      "CasePreservingHash": "0xF21E"
+    },
+    {
+      "Index": 42,
+      "FileOffset": "0xB4C",
+      "Name": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_C_Duration",
+      "NonCasePreservingHash": "0x8D40",
+      "CasePreservingHash": "0x2E10"
+    },
+    {
+      "Index": 43,
+      "FileOffset": "0xB89",
+      "Name": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_C_MaxAmmo",
+      "NonCasePreservingHash": "0xF085",
+      "CasePreservingHash": "0xF5AD"
+    },
+    {
+      "Index": 44,
+      "FileOffset": "0xBC5",
+      "Name": "/Game/WeaponsNTools/FlareGun/WeaponDisplay_FlareGun_AmmoCount",
+      "NonCasePreservingHash": "0xF26D",
+      "CasePreservingHash": "0x20BE"
+    },
+    {
+      "Index": 45,
+      "FileOffset": "0xC0B",
+      "Name": "/Game/WeaponsNTools/FlareGun/WPN_FlareGun",
+      "NonCasePreservingHash": "0xB663",
+      "CasePreservingHash": "0xA23D"
+    },
+    {
+      "Index": 46,
+      "FileOffset": "0xC3D",
+      "Name": "/Game/WeaponsNTools/Rumble/ShotgunRumble",
+      "NonCasePreservingHash": "0xB8DB",
+      "CasePreservingHash": "0x2F87"
+    },
+    {
+      "Index": 47,
+      "FileOffset": "0xC6E",
+      "Name": "/Script/CoreUObject",
+      "NonCasePreservingHash": "0x49F8",
+      "CasePreservingHash": "0x3E2D"
+    },
+    {
+      "Index": 48,
+      "FileOffset": "0xC8A",
+      "Name": "/Script/Engine",
+      "NonCasePreservingHash": "0x4086",
+      "CasePreservingHash": "0x4985"
+    },
+    {
+      "Index": 49,
+      "FileOffset": "0xCA1",
+      "Name": "/Script/FSD",
+      "NonCasePreservingHash": "0xEE3C",
+      "CasePreservingHash": "0x9309"
+    },
+    {
+      "Index": 50,
+      "FileOffset": "0xCB5",
+      "Name": "/Script/UMG",
+      "NonCasePreservingHash": "0x5D36",
+      "CasePreservingHash": "0x20F2"
+    },
+    {
+      "Index": 51,
+      "FileOffset": "0xCC9",
+      "Name": "ABP_Flaregun_A_C",
+      "NonCasePreservingHash": "0xD75F",
+      "CasePreservingHash": "0xC7BB"
+    },
+    {
+      "Index": 52,
+      "FileOffset": "0xCE2",
+      "Name": "Actor",
+      "NonCasePreservingHash": "0xCF2D",
+      "CasePreservingHash": "0x5923"
+    },
+    {
+      "Index": 53,
+      "FileOffset": "0xCF0",
+      "Name": "Aggregator",
+      "NonCasePreservingHash": "0x47AF",
+      "CasePreservingHash": "0xA6A3"
+    },
+    {
+      "Index": 54,
+      "FileOffset": "0xD03",
+      "Name": "AllNodes",
+      "NonCasePreservingHash": "0x15FF",
+      "CasePreservingHash": "0x42E7"
+    },
+    {
+      "Index": 55,
+      "FileOffset": "0xD14",
+      "Name": "AmmoDrivenWeaponUpgrade",
+      "NonCasePreservingHash": "0x572F",
+      "CasePreservingHash": "0x8F6A"
+    },
+    {
+      "Index": 56,
+      "FileOffset": "0xD34",
+      "Name": "AmmoDriveWeaponAggregator",
+      "NonCasePreservingHash": "0x27BF",
+      "CasePreservingHash": "0xC2B8"
+    },
+    {
+      "Index": 57,
+      "FileOffset": "0xD56",
+      "Name": "ANIM_Flaregun_Reload_A_Montage",
+      "NonCasePreservingHash": "0x3877",
+      "CasePreservingHash": "0xEFD"
+    },
+    {
+      "Index": 58,
+      "FileOffset": "0xD7D",
+      "Name": "ANIM_Flaregun_Reload_A_MontageTP",
+      "NonCasePreservingHash": "0x206",
+      "CasePreservingHash": "0xBA1D"
+    },
+    {
+      "Index": 59,
+      "FileOffset": "0xDA6",
+      "Name": "AnimBlueprintGeneratedClass",
+      "NonCasePreservingHash": "0x8998",
+      "CasePreservingHash": "0x63B"
+    },
+    {
+      "Index": 60,
+      "FileOffset": "0xDCA",
+      "Name": "AnimClass",
+      "NonCasePreservingHash": "0xC395",
+      "CasePreservingHash": "0x9E46"
+    },
+    {
+      "Index": 61,
+      "FileOffset": "0xDDC",
+      "Name": "AnimMontage",
+      "NonCasePreservingHash": "0x77A",
+      "CasePreservingHash": "0x8F9D"
+    },
+    {
+      "Index": 62,
+      "FileOffset": "0xDF0",
+      "Name": "Array_Add",
+      "NonCasePreservingHash": "0xF259",
+      "CasePreservingHash": "0x64C2"
+    },
+    {
+      "Index": 63,
+      "FileOffset": "0xE02",
+      "Name": "ArrayProperty",
+      "NonCasePreservingHash": "0xB049",
+      "CasePreservingHash": "0x69E3"
+    },
+    {
+      "Index": 64,
+      "FileOffset": "0xE18",
+      "Name": "Arrow_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x5B75",
+      "CasePreservingHash": "0x1F6E"
+    },
+    {
+      "Index": 65,
+      "FileOffset": "0xE33",
+      "Name": "AttachParent",
+      "NonCasePreservingHash": "0xFF2E",
+      "CasePreservingHash": "0xE4A8"
+    },
+    {
+      "Index": 66,
+      "FileOffset": "0xE48",
+      "Name": "AutomaticReload",
+      "NonCasePreservingHash": "0x955",
+      "CasePreservingHash": "0x546E"
+    },
+    {
+      "Index": 67,
+      "FileOffset": "0xE60",
+      "Name": "AutoReloadCompleteCue",
+      "NonCasePreservingHash": "0x69AF",
+      "CasePreservingHash": "0x8C90"
+    },
+    {
+      "Index": 68,
+      "FileOffset": "0xE7E",
+      "Name": "bIsParentComponentNative",
+      "NonCasePreservingHash": "0x4157",
+      "CasePreservingHash": "0x776D"
+    },
+    {
+      "Index": 69,
+      "FileOffset": "0xE9F",
+      "Name": "BlendMode",
+      "NonCasePreservingHash": "0xF7FA",
+      "CasePreservingHash": "0xA202"
+    },
+    {
+      "Index": 70,
+      "FileOffset": "0xEB1",
+      "Name": "BlueprintGeneratedClass",
+      "NonCasePreservingHash": "0x9B29",
+      "CasePreservingHash": "0x2D70"
+    },
+    {
+      "Index": 71,
+      "FileOffset": "0xED1",
+      "Name": "BodyInstance",
+      "NonCasePreservingHash": "0xE440",
+      "CasePreservingHash": "0xCDA8"
+    },
+    {
+      "Index": 72,
+      "FileOffset": "0xEE6",
+      "Name": "BoolProperty",
+      "NonCasePreservingHash": "0x410",
+      "CasePreservingHash": "0x8AB0"
+    },
+    {
+      "Index": 73,
+      "FileOffset": "0xEFB",
+      "Name": "Box_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x127E",
+      "CasePreservingHash": "0xF463"
+    },
+    {
+      "Index": 74,
+      "FileOffset": "0xF14",
+      "Name": "BoxComponent",
+      "NonCasePreservingHash": "0xF05B",
+      "CasePreservingHash": "0x36"
+    },
+    {
+      "Index": 75,
+      "FileOffset": "0xF29",
+      "Name": "BPL_UpgradeHelpers_C",
+      "NonCasePreservingHash": "0x4FE1",
+      "CasePreservingHash": "0x6B07"
+    },
+    {
+      "Index": 76,
+      "FileOffset": "0xF46",
+      "Name": "bReceivesDecals",
+      "NonCasePreservingHash": "0xC966",
+      "CasePreservingHash": "0x6B13"
+    },
+    {
+      "Index": 77,
+      "FileOffset": "0xF5E",
+      "Name": "bWindowFocusable",
+      "NonCasePreservingHash": "0xD151",
+      "CasePreservingHash": "0x9A7D"
+    },
+    {
+      "Index": 78,
+      "FileOffset": "0xF77",
+      "Name": "ByteProperty",
+      "NonCasePreservingHash": "0x4EE6",
+      "CasePreservingHash": "0xC02D"
+    },
+    {
+      "Index": 79,
+      "FileOffset": "0xF8C",
+      "Name": "CallFunc_Array_Add_ReturnValue",
+      "NonCasePreservingHash": "0x117B",
+      "CasePreservingHash": "0x5A4B"
+    },
+    {
+      "Index": 80,
+      "FileOffset": "0xFB3",
+      "Name": "CallFunc_GetObjectClass_ReturnValue",
+      "NonCasePreservingHash": "0xBA59",
+      "CasePreservingHash": "0x3CAC"
+    },
+    {
+      "Index": 81,
+      "FileOffset": "0xFDF",
+      "Name": "CallFunc_GetUserWidgetObject_ReturnValue",
+      "NonCasePreservingHash": "0xE55E",
+      "CasePreservingHash": "0x55B1"
+    },
+    {
+      "Index": 82,
+      "FileOffset": "0x1010",
+      "Name": "CallFunc_UPGDESC_AmmoDriven_GearStatEntry",
+      "NonCasePreservingHash": "0x8A38",
+      "CasePreservingHash": "0x9DF2"
+    },
+    {
+      "Index": 83,
+      "FileOffset": "0x1042",
+      "Name": "CallFunc_UPGDESC_AmmoDriven_HasAnyUpgrades",
+      "NonCasePreservingHash": "0x1A1F",
+      "CasePreservingHash": "0x173C"
+    },
+    {
+      "Index": 84,
+      "FileOffset": "0x1075",
+      "Name": "CallFunc_UPGDESC_FlaregunProjectile_GearStatEntry",
+      "NonCasePreservingHash": "0x3A50",
+      "CasePreservingHash": "0x1CCC"
+    },
+    {
+      "Index": 85,
+      "FileOffset": "0x10AF",
+      "Name": "CallFunc_UPGDESC_FlaregunProjectile_HasUpgradedValue",
+      "NonCasePreservingHash": "0x979",
+      "CasePreservingHash": "0xD1A"
+    },
+    {
+      "Index": 86,
+      "FileOffset": "0x10EC",
+      "Name": "Camera",
+      "NonCasePreservingHash": "0xAE83",
+      "CasePreservingHash": "0x80AB"
+    },
+    {
+      "Index": 87,
+      "FileOffset": "0x10FB",
+      "Name": "CameraShake",
+      "NonCasePreservingHash": "0xBE11",
+      "CasePreservingHash": "0xE38D"
+    },
+    {
+      "Index": 88,
+      "FileOffset": "0x110F",
+      "Name": "CameraShake_Item_Flaregun_C",
+      "NonCasePreservingHash": "0x94F2",
+      "CasePreservingHash": "0xD97F"
+    },
+    {
+      "Index": 89,
+      "FileOffset": "0x1133",
+      "Name": "CanReload",
+      "NonCasePreservingHash": "0x4773",
+      "CasePreservingHash": "0x2981"
+    },
+    {
+      "Index": 90,
+      "FileOffset": "0x1145",
+      "Name": "Category",
+      "NonCasePreservingHash": "0x7EF7",
+      "CasePreservingHash": "0xC594"
+    },
+    {
+      "Index": 91,
+      "FileOffset": "0x1156",
+      "Name": "Channel",
+      "NonCasePreservingHash": "0x201A",
+      "CasePreservingHash": "0xE6FA"
+    },
+    {
+      "Index": 92,
+      "FileOffset": "0x1166",
+      "Name": "CharacterAnimationSet",
+      "NonCasePreservingHash": "0xE20E",
+      "CasePreservingHash": "0x3C45"
+    },
+    {
+      "Index": 93,
+      "FileOffset": "0x1184",
+      "Name": "ChildNodes",
+      "NonCasePreservingHash": "0x699B",
+      "CasePreservingHash": "0xBA14"
+    },
+    {
+      "Index": 94,
+      "FileOffset": "0x1197",
+      "Name": "Class",
+      "NonCasePreservingHash": "0x7774",
+      "CasePreservingHash": "0x9178"
+    },
+    {
+      "Index": 95,
+      "FileOffset": "0x11A5",
+      "Name": "ClassProperty",
+      "NonCasePreservingHash": "0x1BEB",
+      "CasePreservingHash": "0xA1E3"
+    },
+    {
+      "Index": 96,
+      "FileOffset": "0x11BB",
+      "Name": "ClipSize",
+      "NonCasePreservingHash": "0xBC5D",
+      "CasePreservingHash": "0xB8C2"
+    },
+    {
+      "Index": 97,
+      "FileOffset": "0x11CC",
+      "Name": "CollisionEnabled",
+      "NonCasePreservingHash": "0x4",
+      "CasePreservingHash": "0xB1F2"
+    },
+    {
+      "Index": 98,
+      "FileOffset": "0x11E5",
+      "Name": "CollisionProfileName",
+      "NonCasePreservingHash": "0x809",
+      "CasePreservingHash": "0x9E3D"
+    },
+    {
+      "Index": 99,
+      "FileOffset": "0x1202",
+      "Name": "CollisionResponse",
+      "NonCasePreservingHash": "0x813A",
+      "CasePreservingHash": "0xB8A9"
+    },
+    {
+      "Index": 100,
+      "FileOffset": "0x121C",
+      "Name": "CollisionResponses",
+      "NonCasePreservingHash": "0x6819",
+      "CasePreservingHash": "0xEBED"
+    },
+    {
+      "Index": 101,
+      "FileOffset": "0x1237",
+      "Name": "ComponentClass",
+      "NonCasePreservingHash": "0xFE31",
+      "CasePreservingHash": "0x55F6"
+    },
+    {
+      "Index": 102,
+      "FileOffset": "0x124E",
+      "Name": "ComponentTemplate",
+      "NonCasePreservingHash": "0xAAD4",
+      "CasePreservingHash": "0xC222"
+    },
+    {
+      "Index": 103,
+      "FileOffset": "0x1268",
+      "Name": "CrosshairAggregator",
+      "NonCasePreservingHash": "0x34F7",
+      "CasePreservingHash": "0x57B2"
+    },
+    {
+      "Index": 104,
+      "FileOffset": "0x1284",
+      "Name": "CrosshairAggregator_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x2884",
+      "CasePreservingHash": "0xFC0"
+    },
+    {
+      "Index": 105,
+      "FileOffset": "0x12AD",
+      "Name": "CrossHairType",
+      "NonCasePreservingHash": "0x92BD",
+      "CasePreservingHash": "0xE2"
+    },
+    {
+      "Index": 106,
+      "FileOffset": "0x12C3",
+      "Name": "Damage1_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x2C3F",
+      "CasePreservingHash": "0xAEF9"
+    },
+    {
+      "Index": 107,
+      "FileOffset": "0x12E0",
+      "Name": "DamageComponent",
+      "NonCasePreservingHash": "0x2B40",
+      "CasePreservingHash": "0xC34C"
+    },
+    {
+      "Index": 108,
+      "FileOffset": "0x12F8",
+      "Name": "Default__ABP_Flaregun_A_C",
+      "NonCasePreservingHash": "0xB7C5",
+      "CasePreservingHash": "0x1EDB"
+    },
+    {
+      "Index": 109,
+      "FileOffset": "0x131A",
+      "Name": "Default__BlueprintGeneratedClass",
+      "NonCasePreservingHash": "0xCF01",
+      "CasePreservingHash": "0x3330"
+    },
+    {
+      "Index": 110,
+      "FileOffset": "0x1343",
+      "Name": "Default__BPL_UpgradeHelpers_C",
+      "NonCasePreservingHash": "0xAB1A",
+      "CasePreservingHash": "0x611F"
+    },
+    {
+      "Index": 111,
+      "FileOffset": "0x1369",
+      "Name": "Default__CameraShake_Item_Flaregun_C",
+      "NonCasePreservingHash": "0x2AB1",
+      "CasePreservingHash": "0xD560"
+    },
+    {
+      "Index": 112,
+      "FileOffset": "0x1396",
+      "Name": "Default__CrosshairAggregator",
+      "NonCasePreservingHash": "0x78F6",
+      "CasePreservingHash": "0xF3F7"
+    },
+    {
+      "Index": 113,
+      "FileOffset": "0x13BB",
+      "Name": "Default__FirstPersonStaticMeshComponent",
+      "NonCasePreservingHash": "0x862C",
+      "CasePreservingHash": "0x2476"
+    },
+    {
+      "Index": 114,
+      "FileOffset": "0x13EB",
+      "Name": "Default__FirstPersonWidgetComponent",
+      "NonCasePreservingHash": "0xCAA2",
+      "CasePreservingHash": "0xE266"
+    },
+    {
+      "Index": 115,
+      "FileOffset": "0x1417",
+      "Name": "Default__FlareGun",
+      "NonCasePreservingHash": "0xF9B7",
+      "CasePreservingHash": "0x958F"
+    },
+    {
+      "Index": 116,
+      "FileOffset": "0x1431",
+      "Name": "Default__Function",
+      "NonCasePreservingHash": "0xAFA2",
+      "CasePreservingHash": "0x400A"
+    },
+    {
+      "Index": 117,
+      "FileOffset": "0x144B",
+      "Name": "Default__HUD_CrossHair_FlareGun_C",
+      "NonCasePreservingHash": "0xA9CB",
+      "CasePreservingHash": "0x64A4"
+    },
+    {
+      "Index": 118,
+      "FileOffset": "0x1475",
+      "Name": "Default__KismetArrayLibrary",
+      "NonCasePreservingHash": "0xF94D",
+      "CasePreservingHash": "0xC4A2"
+    },
+    {
+      "Index": 119,
+      "FileOffset": "0x1499",
+      "Name": "Default__PRJ_FlareGun_Projectile01_C",
+      "NonCasePreservingHash": "0x8A40",
+      "CasePreservingHash": "0xADC4"
+    },
+    {
+      "Index": 120,
+      "FileOffset": "0x14C6",
+      "Name": "Default__ProjectileLauncherComponent",
+      "NonCasePreservingHash": "0x40F6",
+      "CasePreservingHash": "0x3FC"
+    },
+    {
+      "Index": 121,
+      "FileOffset": "0x14F3",
+      "Name": "Default__SceneComponent",
+      "NonCasePreservingHash": "0x2D62",
+      "CasePreservingHash": "0xBCE8"
+    },
+    {
+      "Index": 122,
+      "FileOffset": "0x1513",
+      "Name": "Default__SCS_Node",
+      "NonCasePreservingHash": "0x8EE1",
+      "CasePreservingHash": "0xC61"
+    },
+    {
+      "Index": 123,
+      "FileOffset": "0x152D",
+      "Name": "Default__SimpleConstructionScript",
+      "NonCasePreservingHash": "0x6718",
+      "CasePreservingHash": "0x40DB"
+    },
+    {
+      "Index": 124,
+      "FileOffset": "0x1557",
+      "Name": "Default__WeaponDisplay_Base_AmmoCount_C",
+      "NonCasePreservingHash": "0x27ED",
+      "CasePreservingHash": "0xB6B1"
+    },
+    {
+      "Index": 125,
+      "FileOffset": "0x1587",
+      "Name": "Default__WeaponDisplay_FlareGun_AmmoCount_C",
+      "NonCasePreservingHash": "0x6299",
+      "CasePreservingHash": "0xF184"
+    },
+    {
+      "Index": 126,
+      "FileOffset": "0x15BB",
+      "Name": "Default__WPN_FlareGun_C",
+      "NonCasePreservingHash": "0x64BF",
+      "CasePreservingHash": "0xC3FA"
+    },
+    {
+      "Index": 127,
+      "FileOffset": "0x15DB",
+      "Name": "DefaultSceneRoot",
+      "NonCasePreservingHash": "0x8CBC",
+      "CasePreservingHash": "0x59E"
+    },
+    {
+      "Index": 128,
+      "FileOffset": "0x15F4",
+      "Name": "DefaultSceneRoot_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x7EAE",
+      "CasePreservingHash": "0x4884"
+    },
+    {
+      "Index": 129,
+      "FileOffset": "0x161A",
+      "Name": "DefaultSceneRootNode",
+      "NonCasePreservingHash": "0x503A",
+      "CasePreservingHash": "0xE5BD"
+    },
+    {
+      "Index": 130,
+      "FileOffset": "0x1637",
+      "Name": "Description",
+      "NonCasePreservingHash": "0x2A03",
+      "CasePreservingHash": "0x9E1"
+    },
+    {
+      "Index": 131,
+      "FileOffset": "0x164B",
+      "Name": "DialogDataAsset",
+      "NonCasePreservingHash": "0x7B28",
+      "CasePreservingHash": "0x7224"
+    },
+    {
+      "Index": 132,
+      "FileOffset": "0x1663",
+      "Name": "DrawSize",
+      "NonCasePreservingHash": "0xB9FA",
+      "CasePreservingHash": "0x70C"
+    },
+    {
+      "Index": 133,
+      "FileOffset": "0x1674",
+      "Name": "ECC_WorldStatic",
+      "NonCasePreservingHash": "0xA482",
+      "CasePreservingHash": "0x96B8"
+    },
+    {
+      "Index": 134,
+      "FileOffset": "0x168C",
+      "Name": "ECollisionChannel",
+      "NonCasePreservingHash": "0x684C",
+      "CasePreservingHash": "0x232"
+    },
+    {
+      "Index": 135,
+      "FileOffset": "0x16A6",
+      "Name": "ECollisionEnabled",
+      "NonCasePreservingHash": "0x8F7F",
+      "CasePreservingHash": "0x3B94"
+    },
+    {
+      "Index": 136,
+      "FileOffset": "0x16C0",
+      "Name": "ECollisionEnabled::NoCollision",
+      "NonCasePreservingHash": "0x6C98",
+      "CasePreservingHash": "0xF851"
+    },
+    {
+      "Index": 137,
+      "FileOffset": "0x16E7",
+      "Name": "ECollisionResponse",
+      "NonCasePreservingHash": "0xD133",
+      "CasePreservingHash": "0xDEB"
+    },
+    {
+      "Index": 138,
+      "FileOffset": "0x1702",
+      "Name": "ECR_Ignore",
+      "NonCasePreservingHash": "0x2E8A",
+      "CasePreservingHash": "0xA807"
+    },
+    {
+      "Index": 139,
+      "FileOffset": "0x1715",
+      "Name": "Engine",
+      "NonCasePreservingHash": "0x1B7",
+      "CasePreservingHash": "0xE644"
+    },
+    {
+      "Index": 140,
+      "FileOffset": "0x1724",
+      "Name": "EntryPoint",
+      "NonCasePreservingHash": "0x58AF",
+      "CasePreservingHash": "0x230B"
+    },
+    {
+      "Index": 141,
+      "FileOffset": "0x1737",
+      "Name": "EnumProperty",
+      "NonCasePreservingHash": "0xD751",
+      "CasePreservingHash": "0x409D"
+    },
+    {
+      "Index": 142,
+      "FileOffset": "0x174C",
+      "Name": "EquipDuration",
+      "NonCasePreservingHash": "0x81A8",
+      "CasePreservingHash": "0xEC36"
+    },
+    {
+      "Index": 143,
+      "FileOffset": "0x1762",
+      "Name": "EWidgetBlendMode",
+      "NonCasePreservingHash": "0xD5D2",
+      "CasePreservingHash": "0x9773"
+    },
+    {
+      "Index": 144,
+      "FileOffset": "0x177B",
+      "Name": "EWidgetBlendMode::Opaque",
+      "NonCasePreservingHash": "0xACD8",
+      "CasePreservingHash": "0x8423"
+    },
+    {
+      "Index": 145,
+      "FileOffset": "0x179C",
+      "Name": "EWindowVisibility",
+      "NonCasePreservingHash": "0xCF35",
+      "CasePreservingHash": "0x28F2"
+    },
+    {
+      "Index": 146,
+      "FileOffset": "0x17B6",
+      "Name": "EWindowVisibility::Visible",
+      "NonCasePreservingHash": "0x2CFB",
+      "CasePreservingHash": "0x5819"
+    },
+    {
+      "Index": 147,
+      "FileOffset": "0x17D9",
+      "Name": "ExecuteUbergraph_WPN_FlareGun",
+      "NonCasePreservingHash": "0xA724",
+      "CasePreservingHash": "0x4824"
+    },
+    {
+      "Index": 148,
+      "FileOffset": "0x17FF",
+      "Name": "FireForceFeedbackEffect",
+      "NonCasePreservingHash": "0xA1B8",
+      "CasePreservingHash": "0xF86F"
+    },
+    {
+      "Index": 149,
+      "FileOffset": "0x181F",
+      "Name": "FireSound",
+      "NonCasePreservingHash": "0xDCA6",
+      "CasePreservingHash": "0x2F93"
+    },
+    {
+      "Index": 150,
+      "FileOffset": "0x1831",
+      "Name": "FirstPersonSkeletalMeshComponent",
+      "NonCasePreservingHash": "0x551D",
+      "CasePreservingHash": "0x351D"
+    },
+    {
+      "Index": 151,
+      "FileOffset": "0x185A",
+      "Name": "FirstPersonStaticMesh",
+      "NonCasePreservingHash": "0xB82E",
+      "CasePreservingHash": "0x4D11"
+    },
+    {
+      "Index": 152,
+      "FileOffset": "0x1878",
+      "Name": "FirstPersonStaticMesh_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x9AC5",
+      "CasePreservingHash": "0x64CB"
+    },
+    {
+      "Index": 153,
+      "FileOffset": "0x18A3",
+      "Name": "FirstPersonStaticMeshComponent",
+      "NonCasePreservingHash": "0xC8AB",
+      "CasePreservingHash": "0x2C6"
+    },
+    {
+      "Index": 154,
+      "FileOffset": "0x18CA",
+      "Name": "FirstPersonWidget",
+      "NonCasePreservingHash": "0x77DF",
+      "CasePreservingHash": "0x18C"
+    },
+    {
+      "Index": 155,
+      "FileOffset": "0x18E4",
+      "Name": "FirstPersonWidget_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x777C",
+      "CasePreservingHash": "0xAE92"
+    },
+    {
+      "Index": 156,
+      "FileOffset": "0x190B",
+      "Name": "FirstPersonWidgetComponent",
+      "NonCasePreservingHash": "0x234F",
+      "CasePreservingHash": "0xFF27"
+    },
+    {
+      "Index": 157,
+      "FileOffset": "0x192E",
+      "Name": "FlareGun",
+      "NonCasePreservingHash": "0xA467",
+      "CasePreservingHash": "0x5C3C"
+    },
+    {
+      "Index": 158,
+      "FileOffset": "0x193F",
+      "Name": "FlareGun_Fire_Cue",
+      "NonCasePreservingHash": "0xD376",
+      "CasePreservingHash": "0x6C9F"
+    },
+    {
+      "Index": 159,
+      "FileOffset": "0x1959",
+      "Name": "FlareGun_Reload_Cue",
+      "NonCasePreservingHash": "0xA379",
+      "CasePreservingHash": "0xC5B7"
+    },
+    {
+      "Index": 160,
+      "FileOffset": "0x1975",
+      "Name": "FlaregunProjectileUpgrade",
+      "NonCasePreservingHash": "0x1C2F",
+      "CasePreservingHash": "0x1469"
+    },
+    {
+      "Index": 161,
+      "FileOffset": "0x1997",
+      "Name": "FloatProperty",
+      "NonCasePreservingHash": "0xA7FB",
+      "CasePreservingHash": "0xFDDE"
+    },
+    {
+      "Index": 162,
+      "FileOffset": "0x19AD",
+      "Name": "ForceFeedbackEffect",
+      "NonCasePreservingHash": "0xF012",
+      "CasePreservingHash": "0xFF6E"
+    },
+    {
+      "Index": 163,
+      "FileOffset": "0x19C9",
+      "Name": "FP_Assault_Equip_Montage",
+      "NonCasePreservingHash": "0x8D19",
+      "CasePreservingHash": "0x3866"
+    },
+    {
+      "Index": 164,
+      "FileOffset": "0x19EA",
+      "Name": "FP_Assault_Flaregun_Reload_A_Montage",
+      "NonCasePreservingHash": "0x19E",
+      "CasePreservingHash": "0x9A07"
+    },
+    {
+      "Index": 165,
+      "FileOffset": "0x1A17",
+      "Name": "FP_Assault_Gunsling_A_Montage",
+      "NonCasePreservingHash": "0x24AF",
+      "CasePreservingHash": "0xD8AA"
+    },
+    {
+      "Index": 166,
+      "FileOffset": "0x1A3D",
+      "Name": "FP_CharacterMontage",
+      "NonCasePreservingHash": "0x100F",
+      "CasePreservingHash": "0xD130"
+    },
+    {
+      "Index": 167,
+      "FileOffset": "0x1A59",
+      "Name": "FP_EquipAnimation",
+      "NonCasePreservingHash": "0x7108",
+      "CasePreservingHash": "0xD00C"
+    },
+    {
+      "Index": 168,
+      "FileOffset": "0x1A73",
+      "Name": "FP_FireAnimation",
+      "NonCasePreservingHash": "0xF43C",
+      "CasePreservingHash": "0xFEA5"
+    },
+    {
+      "Index": 169,
+      "FileOffset": "0x1A8C",
+      "Name": "FP_ReloadAnimation",
+      "NonCasePreservingHash": "0xD777",
+      "CasePreservingHash": "0x885E"
+    },
+    {
+      "Index": 170,
+      "FileOffset": "0x1AA7",
+      "Name": "FP_Shotgun_Shoot_Montage",
+      "NonCasePreservingHash": "0xBA0D",
+      "CasePreservingHash": "0xDD8A"
+    },
+    {
+      "Index": 171,
+      "FileOffset": "0x1AC8",
+      "Name": "FPMesh",
+      "NonCasePreservingHash": "0xAB55",
+      "CasePreservingHash": "0x8FD2"
+    },
+    {
+      "Index": 172,
+      "FileOffset": "0x1AD7",
+      "Name": "FSDPlayerState",
+      "NonCasePreservingHash": "0x8AAA",
+      "CasePreservingHash": "0xB64A"
+    },
+    {
+      "Index": 173,
+      "FileOffset": "0x1AEE",
+      "Name": "Function",
+      "NonCasePreservingHash": "0xF272",
+      "CasePreservingHash": "0x89B9"
+    },
+    {
+      "Index": 174,
+      "FileOffset": "0x1AFF",
+      "Name": "GameplayStatics",
+      "NonCasePreservingHash": "0xCDA0",
+      "CasePreservingHash": "0x6268"
+    },
+    {
+      "Index": 175,
+      "FileOffset": "0x1B17",
+      "Name": "GearCategories",
+      "NonCasePreservingHash": "0x5C5D",
+      "CasePreservingHash": "0x458B"
+    },
+    {
+      "Index": 176,
+      "FileOffset": "0x1B2E",
+      "Name": "GearIcon_Flaregun_Border",
+      "NonCasePreservingHash": "0x4921",
+      "CasePreservingHash": "0x17E4"
+    },
+    {
+      "Index": 177,
+      "FileOffset": "0x1B4F",
+      "Name": "GearIcon_Flaregun_Full",
+      "NonCasePreservingHash": "0xC244",
+      "CasePreservingHash": "0x954B"
+    },
+    {
+      "Index": 178,
+      "FileOffset": "0x1B6E",
+      "Name": "GearStatEntry",
+      "NonCasePreservingHash": "0x2FB7",
+      "CasePreservingHash": "0xDC1A"
+    },
+    {
+      "Index": 179,
+      "FileOffset": "0x1B84",
+      "Name": "GetGearStatEntry",
+      "NonCasePreservingHash": "0xB3C4",
+      "CasePreservingHash": "0x1022"
+    },
+    {
+      "Index": 180,
+      "FileOffset": "0x1B9D",
+      "Name": "GetObjectClass",
+      "NonCasePreservingHash": "0x8BEF",
+      "CasePreservingHash": "0x550F"
+    },
+    {
+      "Index": 181,
+      "FileOffset": "0x1BB4",
+      "Name": "GetUserWidgetObject",
+      "NonCasePreservingHash": "0xC975",
+      "CasePreservingHash": "0x5A22"
+    },
+    {
+      "Index": 182,
+      "FileOffset": "0x1BD0",
+      "Name": "Guid",
+      "NonCasePreservingHash": "0x5043",
+      "CasePreservingHash": "0x68FA"
+    },
+    {
+      "Index": 183,
+      "FileOffset": "0x1BDD",
+      "Name": "GunslingAnimations",
+      "NonCasePreservingHash": "0xFE07",
+      "CasePreservingHash": "0x137D"
+    },
+    {
+      "Index": 184,
+      "FileOffset": "0x1BF8",
+      "Name": "HitScan",
+      "NonCasePreservingHash": "0xD25D",
+      "CasePreservingHash": "0xD70D"
+    },
+    {
+      "Index": 185,
+      "FileOffset": "0x1C08",
+      "Name": "HUD_CrossHair_FlareGun_C",
+      "NonCasePreservingHash": "0xE5C7",
+      "CasePreservingHash": "0x42D"
+    },
+    {
+      "Index": 186,
+      "FileOffset": "0x1C29",
+      "Name": "IAS_Rifle",
+      "NonCasePreservingHash": "0x8CD1",
+      "CasePreservingHash": "0x76AF"
+    },
+    {
+      "Index": 187,
+      "FileOffset": "0x1C3B",
+      "Name": "IconBG",
+      "NonCasePreservingHash": "0x94F",
+      "CasePreservingHash": "0x2464"
+    },
+    {
+      "Index": 188,
+      "FileOffset": "0x1C4A",
+      "Name": "IconLine",
+      "NonCasePreservingHash": "0x788B",
+      "CasePreservingHash": "0x4E5F"
+    },
+    {
+      "Index": 189,
+      "FileOffset": "0x1C5B",
+      "Name": "ID_FlareGun",
+      "NonCasePreservingHash": "0xD108",
+      "CasePreservingHash": "0x98FC"
+    },
+    {
+      "Index": 190,
+      "FileOffset": "0x1C6F",
+      "Name": "Initialize",
+      "NonCasePreservingHash": "0xF0EB",
+      "CasePreservingHash": "0xAED4"
+    },
+    {
+      "Index": 191,
+      "FileOffset": "0x1C82",
+      "Name": "InternalVariableName",
+      "NonCasePreservingHash": "0xFF3D",
+      "CasePreservingHash": "0xFD0A"
+    },
+    {
+      "Index": 192,
+      "FileOffset": "0x1C9F",
+      "Name": "IntPoint",
+      "NonCasePreservingHash": "0x757E",
+      "CasePreservingHash": "0xA49"
+    },
+    {
+      "Index": 193,
+      "FileOffset": "0x1CB0",
+      "Name": "IntProperty",
+      "NonCasePreservingHash": "0xD3A5",
+      "CasePreservingHash": "0x4A36"
+    },
+    {
+      "Index": 194,
+      "FileOffset": "0x1CC4",
+      "Name": "ItemAnimationItem",
+      "NonCasePreservingHash": "0xA637",
+      "CasePreservingHash": "0xBF78"
+    },
+    {
+      "Index": 195,
+      "FileOffset": "0x1CDE",
+      "Name": "ItemCharacterAnimationSet",
+      "NonCasePreservingHash": "0x5486",
+      "CasePreservingHash": "0xE254"
+    },
+    {
+      "Index": 196,
+      "FileOffset": "0x1D00",
+      "Name": "ItemID",
+      "NonCasePreservingHash": "0xC25D",
+      "CasePreservingHash": "0xF2B6"
+    },
+    {
+      "Index": 197,
+      "FileOffset": "0x1D0F",
+      "Name": "ItemMontage",
+      "NonCasePreservingHash": "0xE2C2",
+      "CasePreservingHash": "0x3BB"
+    },
+    {
+      "Index": 198,
+      "FileOffset": "0x1D23",
+      "Name": "K2Node_DynamicCast_AsWeapon_Display_Base_Ammo_Count",
+      "NonCasePreservingHash": "0xA80A",
+      "CasePreservingHash": "0xD44F"
+    },
+    {
+      "Index": 199,
+      "FileOffset": "0x1D5F",
+      "Name": "K2Node_DynamicCast_bSuccess",
+      "NonCasePreservingHash": "0x1277",
+      "CasePreservingHash": "0xEB47"
+    },
+    {
+      "Index": 200,
+      "FileOffset": "0x1D83",
+      "Name": "KismetArrayLibrary",
+      "NonCasePreservingHash": "0x380C",
+      "CasePreservingHash": "0xF99A"
+    },
+    {
+      "Index": 201,
+      "FileOffset": "0x1D9E",
+      "Name": "M_WPN_Flaregun_Grip01",
+      "NonCasePreservingHash": "0x9479",
+      "CasePreservingHash": "0x267D"
+    },
+    {
+      "Index": 202,
+      "FileOffset": "0x1DBC",
+      "Name": "M_WPN_Flaregun_Metal01",
+      "NonCasePreservingHash": "0x73A",
+      "CasePreservingHash": "0xD184"
+    },
+    {
+      "Index": 203,
+      "FileOffset": "0x1DDB",
+      "Name": "M_WPN_Flaregun_Metal02",
+      "NonCasePreservingHash": "0x21E3",
+      "CasePreservingHash": "0x7E6A"
+    },
+    {
+      "Index": 204,
+      "FileOffset": "0x1DFA",
+      "Name": "Mass",
+      "NonCasePreservingHash": "0xBD5E",
+      "CasePreservingHash": "0x4690"
+    },
+    {
+      "Index": 205,
+      "FileOffset": "0x1E07",
+      "Name": "MassInKgOverride",
+      "NonCasePreservingHash": "0x1EA6",
+      "CasePreservingHash": "0xEE"
+    },
+    {
+      "Index": 206,
+      "FileOffset": "0x1E20",
+      "Name": "MaterialInstanceConstant",
+      "NonCasePreservingHash": "0x3B04",
+      "CasePreservingHash": "0xAD12"
+    },
+    {
+      "Index": 207,
+      "FileOffset": "0x1E41",
+      "Name": "Max",
+      "NonCasePreservingHash": "0x7F1C",
+      "CasePreservingHash": "0x5827"
+    },
+    {
+      "Index": 208,
+      "FileOffset": "0x1E4D",
+      "Name": "MaxAmmo",
+      "NonCasePreservingHash": "0x34A4",
+      "CasePreservingHash": "0x65F8"
+    },
+    {
+      "Index": 209,
+      "FileOffset": "0x1E5D",
+      "Name": "Min",
+      "NonCasePreservingHash": "0x81F5",
+      "CasePreservingHash": "0x4BD1"
+    },
+    {
+      "Index": 210,
+      "FileOffset": "0x1E69",
+      "Name": "MuzzleParticles",
+      "NonCasePreservingHash": "0x1195",
+      "CasePreservingHash": "0xC91B"
+    },
+    {
+      "Index": 211,
+      "FileOffset": "0x1E81",
+      "Name": "Name",
+      "NonCasePreservingHash": "0x1D39",
+      "CasePreservingHash": "0xD938"
+    },
+    {
+      "Index": 212,
+      "FileOffset": "0x1E8E",
+      "Name": "NameProperty",
+      "NonCasePreservingHash": "0xF282",
+      "CasePreservingHash": "0x4A08"
+    },
+    {
+      "Index": 213,
+      "FileOffset": "0x1EA3",
+      "Name": "NearEmptySound",
+      "NonCasePreservingHash": "0xC793",
+      "CasePreservingHash": "0xE76"
+    },
+    {
+      "Index": 214,
+      "FileOffset": "0x1EBA",
+      "Name": "NoCollision",
+      "NonCasePreservingHash": "0x36DA",
+      "CasePreservingHash": "0xE335"
+    },
+    {
+      "Index": 215,
+      "FileOffset": "0x1ECE",
+      "Name": "None",
+      "NonCasePreservingHash": "0x3F4",
+      "CasePreservingHash": "0xDC5"
+    },
+    {
+      "Index": 216,
+      "FileOffset": "0x1EDB",
+      "Name": "Object",
+      "NonCasePreservingHash": "0x4B65",
+      "CasePreservingHash": "0x1ED"
+    },
+    {
+      "Index": 217,
+      "FileOffset": "0x1EEA",
+      "Name": "ObjectProperty",
+      "NonCasePreservingHash": "0xDB41",
+      "CasePreservingHash": "0xEAB3"
+    },
+    {
+      "Index": 218,
+      "FileOffset": "0x1F01",
+      "Name": "ObjectType",
+      "NonCasePreservingHash": "0x8B8E",
+      "CasePreservingHash": "0xA21C"
+    },
+    {
+      "Index": 219,
+      "FileOffset": "0x1F14",
+      "Name": "OverrideMaterials",
+      "NonCasePreservingHash": "0xB6E1",
+      "CasePreservingHash": "0xC3DB"
+    },
+    {
+      "Index": 220,
+      "FileOffset": "0x1F2E",
+      "Name": "P_Flaregun_Fire",
+      "NonCasePreservingHash": "0x558",
+      "CasePreservingHash": "0xF856"
+    },
+    {
+      "Index": 221,
+      "FileOffset": "0x1F46",
+      "Name": "Package",
+      "NonCasePreservingHash": "0x4773",
+      "CasePreservingHash": "0x1588"
+    },
+    {
+      "Index": 222,
+      "FileOffset": "0x1F56",
+      "Name": "ParentComponentOrVariableName",
+      "NonCasePreservingHash": "0x6107",
+      "CasePreservingHash": "0x705A"
+    },
+    {
+      "Index": 223,
+      "FileOffset": "0x1F7C",
+      "Name": "ParticleSystem",
+      "NonCasePreservingHash": "0x2721",
+      "CasePreservingHash": "0xB51C"
+    },
+    {
+      "Index": 224,
+      "FileOffset": "0x1F93",
+      "Name": "ParticleSystem_GEN_VARIABLE",
+      "NonCasePreservingHash": "0xEA92",
+      "CasePreservingHash": "0x294F"
+    },
+    {
+      "Index": 225,
+      "FileOffset": "0x1FB7",
+      "Name": "ParticleSystemComponent",
+      "NonCasePreservingHash": "0xC089",
+      "CasePreservingHash": "0x918B"
+    },
+    {
+      "Index": 226,
+      "FileOffset": "0x1FD7",
+      "Name": "PenetratingHitScan",
+      "NonCasePreservingHash": "0x5435",
+      "CasePreservingHash": "0x718D"
+    },
+    {
+      "Index": 227,
+      "FileOffset": "0x1FF2",
+      "Name": "Pistol_Empty_01_Cue",
+      "NonCasePreservingHash": "0x535F",
+      "CasePreservingHash": "0x941D"
+    },
+    {
+      "Index": 228,
+      "FileOffset": "0x200E",
+      "Name": "Pistol_NearEmpty_01_Cue",
+      "NonCasePreservingHash": "0xB771",
+      "CasePreservingHash": "0x44C5"
+    },
+    {
+      "Index": 229,
+      "FileOffset": "0x202E",
+      "Name": "Pivot",
+      "NonCasePreservingHash": "0xFBD2",
+      "CasePreservingHash": "0xB22F"
+    },
+    {
+      "Index": 230,
+      "FileOffset": "0x203C",
+      "Name": "playerState",
+      "NonCasePreservingHash": "0x7DCD",
+      "CasePreservingHash": "0xFB41"
+    },
+    {
+      "Index": 231,
+      "FileOffset": "0x2050",
+      "Name": "PointerToUberGraphFrame",
+      "NonCasePreservingHash": "0xA254",
+      "CasePreservingHash": "0x9A3C"
+    },
+    {
+      "Index": 232,
+      "FileOffset": "0x2070",
+      "Name": "PointLight_Dead_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x6604",
+      "CasePreservingHash": "0x6D59"
+    },
+    {
+      "Index": 233,
+      "FileOffset": "0x2095",
+      "Name": "PointLight_NoShadow_GEN_VARIABLE",
+      "NonCasePreservingHash": "0xCE7E",
+      "CasePreservingHash": "0x7E53"
+    },
+    {
+      "Index": 234,
+      "FileOffset": "0x20BE",
+      "Name": "PointLightComponent",
+      "NonCasePreservingHash": "0xA89C",
+      "CasePreservingHash": "0x493D"
+    },
+    {
+      "Index": 235,
+      "FileOffset": "0x20DA",
+      "Name": "PreviewActor",
+      "NonCasePreservingHash": "0x83AC",
+      "CasePreservingHash": "0x98EE"
+    },
+    {
+      "Index": 236,
+      "FileOffset": "0x20EF",
+      "Name": "PreviewImage",
+      "NonCasePreservingHash": "0x728E",
+      "CasePreservingHash": "0x5688"
+    },
+    {
+      "Index": 237,
+      "FileOffset": "0x2104",
+      "Name": "PRJ_FlareGun_Projectile01_C",
+      "NonCasePreservingHash": "0x3403",
+      "CasePreservingHash": "0xA1DB"
+    },
+    {
+      "Index": 238,
+      "FileOffset": "0x2128",
+      "Name": "ProjectileClass",
+      "NonCasePreservingHash": "0x1D0F",
+      "CasePreservingHash": "0x149E"
+    },
+    {
+      "Index": 239,
+      "FileOffset": "0x2140",
+      "Name": "ProjectileComponent",
+      "NonCasePreservingHash": "0x2A83",
+      "CasePreservingHash": "0xAB9D"
+    },
+    {
+      "Index": 240,
+      "FileOffset": "0x215C",
+      "Name": "ProjectileLauncher",
+      "NonCasePreservingHash": "0x116C",
+      "CasePreservingHash": "0x5F9A"
+    },
+    {
+      "Index": 241,
+      "FileOffset": "0x2177",
+      "Name": "ProjectileLauncher_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x573F",
+      "CasePreservingHash": "0x637D"
+    },
+    {
+      "Index": 242,
+      "FileOffset": "0x219F",
+      "Name": "ProjectileLauncherComponent",
+      "NonCasePreservingHash": "0xFEB5",
+      "CasePreservingHash": "0xFE3"
+    },
+    {
+      "Index": 243,
+      "FileOffset": "0x21C3",
+      "Name": "ProjectileMovementComponent",
+      "NonCasePreservingHash": "0xB683",
+      "CasePreservingHash": "0x16D"
+    },
+    {
+      "Index": 244,
+      "FileOffset": "0x21E7",
+      "Name": "RandRange",
+      "NonCasePreservingHash": "0x697E",
+      "CasePreservingHash": "0x7136"
+    },
+    {
+      "Index": 245,
+      "FileOffset": "0x21F9",
+      "Name": "RateOfFire",
+      "NonCasePreservingHash": "0x7869",
+      "CasePreservingHash": "0xB7B7"
+    },
+    {
+      "Index": 246,
+      "FileOffset": "0x220C",
+      "Name": "ReceiveBeginPlay",
+      "NonCasePreservingHash": "0x7D81",
+      "CasePreservingHash": "0xCA62"
+    },
+    {
+      "Index": 247,
+      "FileOffset": "0x2225",
+      "Name": "RecoilPitch",
+      "NonCasePreservingHash": "0x2959",
+      "CasePreservingHash": "0x1746"
+    },
+    {
+      "Index": 248,
+      "FileOffset": "0x2239",
+      "Name": "RecoilRoll",
+      "NonCasePreservingHash": "0xB99",
+      "CasePreservingHash": "0x36F0"
+    },
+    {
+      "Index": 249,
+      "FileOffset": "0x224C",
+      "Name": "RecoilSettings",
+      "NonCasePreservingHash": "0x6139",
+      "CasePreservingHash": "0x26AE"
+    },
+    {
+      "Index": 250,
+      "FileOffset": "0x2263",
+      "Name": "RecoilYaw",
+      "NonCasePreservingHash": "0x4420",
+      "CasePreservingHash": "0x741C"
+    },
+    {
+      "Index": 251,
+      "FileOffset": "0x2275",
+      "Name": "RelativeLocation",
+      "NonCasePreservingHash": "0x5088",
+      "CasePreservingHash": "0x2C15"
+    },
+    {
+      "Index": 252,
+      "FileOffset": "0x228E",
+      "Name": "RelativeRotation",
+      "NonCasePreservingHash": "0xBCBB",
+      "CasePreservingHash": "0x29DD"
+    },
+    {
+      "Index": 253,
+      "FileOffset": "0x22A7",
+      "Name": "RelativeScale3D",
+      "NonCasePreservingHash": "0x45C6",
+      "CasePreservingHash": "0xAC35"
+    },
+    {
+      "Index": 254,
+      "FileOffset": "0x22BF",
+      "Name": "ReloadDuration",
+      "NonCasePreservingHash": "0x9B9B",
+      "CasePreservingHash": "0x75B3"
+    },
+    {
+      "Index": 255,
+      "FileOffset": "0x22D6",
+      "Name": "RequiredCharacterLevel",
+      "NonCasePreservingHash": "0xBEF4",
+      "CasePreservingHash": "0x1DED"
+    },
+    {
+      "Index": 256,
+      "FileOffset": "0x22F5",
+      "Name": "RequiredPlayerRank",
+      "NonCasePreservingHash": "0xAC",
+      "CasePreservingHash": "0x7372"
+    },
+    {
+      "Index": 257,
+      "FileOffset": "0x2310",
+      "Name": "Response",
+      "NonCasePreservingHash": "0x8BCE",
+      "CasePreservingHash": "0x2D77"
+    },
+    {
+      "Index": 258,
+      "FileOffset": "0x2321",
+      "Name": "ResponseArray",
+      "NonCasePreservingHash": "0x2443",
+      "CasePreservingHash": "0x6D7C"
+    },
+    {
+      "Index": 259,
+      "FileOffset": "0x2337",
+      "Name": "ResponseChannel",
+      "NonCasePreservingHash": "0xF67C",
+      "CasePreservingHash": "0x864C"
+    },
+    {
+      "Index": 260,
+      "FileOffset": "0x234F",
+      "Name": "Root",
+      "NonCasePreservingHash": "0xF359",
+      "CasePreservingHash": "0xD0F7"
+    },
+    {
+      "Index": 261,
+      "FileOffset": "0x235C",
+      "Name": "RootComponent",
+      "NonCasePreservingHash": "0xB714",
+      "CasePreservingHash": "0x9A61"
+    },
+    {
+      "Index": 262,
+      "FileOffset": "0x2372",
+      "Name": "RootNodes",
+      "NonCasePreservingHash": "0xC17",
+      "CasePreservingHash": "0x5747"
+    },
+    {
+      "Index": 263,
+      "FileOffset": "0x2384",
+      "Name": "Rotator",
+      "NonCasePreservingHash": "0x698A",
+      "CasePreservingHash": "0xD8B9"
+    },
+    {
+      "Index": 264,
+      "FileOffset": "0x2394",
+      "Name": "SavegameID",
+      "NonCasePreservingHash": "0xB3EB",
+      "CasePreservingHash": "0xD683"
+    },
+    {
+      "Index": 265,
+      "FileOffset": "0x23A7",
+      "Name": "SceneComponent",
+      "NonCasePreservingHash": "0x1848",
+      "CasePreservingHash": "0x5F64"
+    },
+    {
+      "Index": 266,
+      "FileOffset": "0x23BE",
+      "Name": "ScriptStruct",
+      "NonCasePreservingHash": "0x154B",
+      "CasePreservingHash": "0x8884"
+    },
+    {
+      "Index": 267,
+      "FileOffset": "0x23D3",
+      "Name": "SCS_Node",
+      "NonCasePreservingHash": "0xD331",
+      "CasePreservingHash": "0xC5D2"
+    },
+    {
+      "Index": 268,
+      "FileOffset": "0x23E4",
+      "Name": "ShotgunRumble",
+      "NonCasePreservingHash": "0xB506",
+      "CasePreservingHash": "0x790D"
+    },
+    {
+      "Index": 269,
+      "FileOffset": "0x23FA",
+      "Name": "Shout_LightUp",
+      "NonCasePreservingHash": "0x9D33",
+      "CasePreservingHash": "0xFC68"
+    },
+    {
+      "Index": 270,
+      "FileOffset": "0x2410",
+      "Name": "ShoutShotFired",
+      "NonCasePreservingHash": "0xF69F",
+      "CasePreservingHash": "0x80B1"
+    },
+    {
+      "Index": 271,
+      "FileOffset": "0x2427",
+      "Name": "SimpleConstructionScript",
+      "NonCasePreservingHash": "0x2B14",
+      "CasePreservingHash": "0x2052"
+    },
+    {
+      "Index": 272,
+      "FileOffset": "0x2448",
+      "Name": "SK_Flaregun_B",
+      "NonCasePreservingHash": "0xF76",
+      "CasePreservingHash": "0x4A8A"
+    },
+    {
+      "Index": 273,
+      "FileOffset": "0x245E",
+      "Name": "SkeletalMesh",
+      "NonCasePreservingHash": "0x818D",
+      "CasePreservingHash": "0x66E1"
+    },
+    {
+      "Index": 274,
+      "FileOffset": "0x2473",
+      "Name": "SkeletalMeshComponent",
+      "NonCasePreservingHash": "0x37BD",
+      "CasePreservingHash": "0xD52"
+    },
+    {
+      "Index": 275,
+      "FileOffset": "0x2491",
+      "Name": "Skinnable",
+      "NonCasePreservingHash": "0xB3D6",
+      "CasePreservingHash": "0x812"
+    },
+    {
+      "Index": 276,
+      "FileOffset": "0x24A3",
+      "Name": "SkinnableComponent",
+      "NonCasePreservingHash": "0xEEC",
+      "CasePreservingHash": "0xBD04"
+    },
+    {
+      "Index": 277,
+      "FileOffset": "0x24BE",
+      "Name": "SM_Screen_007",
+      "NonCasePreservingHash": "0x9A66",
+      "CasePreservingHash": "0x63B8"
+    },
+    {
+      "Index": 278,
+      "FileOffset": "0x24D4",
+      "Name": "SoftObjectProperty",
+      "NonCasePreservingHash": "0x4B5B",
+      "CasePreservingHash": "0xFAAE"
+    },
+    {
+      "Index": 279,
+      "FileOffset": "0x24EF",
+      "Name": "SoundCue",
+      "NonCasePreservingHash": "0xB283",
+      "CasePreservingHash": "0x7031"
+    },
+    {
+      "Index": 280,
+      "FileOffset": "0x2500",
+      "Name": "SphereComponent",
+      "NonCasePreservingHash": "0xEFC1",
+      "CasePreservingHash": "0x74FE"
+    },
+    {
+      "Index": 281,
+      "FileOffset": "0x2518",
+      "Name": "SpotLight_Shadow_1_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x6A48",
+      "CasePreservingHash": "0x96AE"
+    },
+    {
+      "Index": 282,
+      "FileOffset": "0x2540",
+      "Name": "SpotLight_Shadow_2_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x2DBC",
+      "CasePreservingHash": "0xA2D7"
+    },
+    {
+      "Index": 283,
+      "FileOffset": "0x2568",
+      "Name": "SpotLight_Shadow_3_GEN_VARIABLE",
+      "NonCasePreservingHash": "0xE2E9",
+      "CasePreservingHash": "0xB100"
+    },
+    {
+      "Index": 284,
+      "FileOffset": "0x2590",
+      "Name": "SpotLightComponent",
+      "NonCasePreservingHash": "0x4707",
+      "CasePreservingHash": "0x968B"
+    },
+    {
+      "Index": 285,
+      "FileOffset": "0x25AB",
+      "Name": "StaticMesh",
+      "NonCasePreservingHash": "0x5912",
+      "CasePreservingHash": "0x5440"
+    },
+    {
+      "Index": 286,
+      "FileOffset": "0x25BE",
+      "Name": "StaticMesh_GEN_VARIABLE",
+      "NonCasePreservingHash": "0x9EEB",
+      "CasePreservingHash": "0x3A21"
+    },
+    {
+      "Index": 287,
+      "FileOffset": "0x25DE",
+      "Name": "StaticMeshComponent",
+      "NonCasePreservingHash": "0xF16E",
+      "CasePreservingHash": "0x2245"
+    },
+    {
+      "Index": 288,
+      "FileOffset": "0x25FA",
+      "Name": "stats",
+      "NonCasePreservingHash": "0xD1E6",
+      "CasePreservingHash": "0xC29E"
+    },
+    {
+      "Index": 289,
+      "FileOffset": "0x2608",
+      "Name": "StringTable",
+      "NonCasePreservingHash": "0xBB02",
+      "CasePreservingHash": "0x8FD5"
+    },
+    {
+      "Index": 290,
+      "FileOffset": "0x261C",
+      "Name": "StructProperty",
+      "NonCasePreservingHash": "0x30",
+      "CasePreservingHash": "0xFC9C"
+    },
+    {
+      "Index": 291,
+      "FileOffset": "0x2633",
+      "Name": "TerrainDetect_GEN_VARIABLE",
+      "NonCasePreservingHash": "0xB6A6",
+      "CasePreservingHash": "0x1BBD"
+    },
+    {
+      "Index": 292,
+      "FileOffset": "0x2656",
+      "Name": "TerrainDetectComponent",
+      "NonCasePreservingHash": "0x3188",
+      "CasePreservingHash": "0x16EA"
+    },
+    {
+      "Index": 293,
+      "FileOffset": "0x2675",
+      "Name": "TextProperty",
+      "NonCasePreservingHash": "0x3AC4",
+      "CasePreservingHash": "0xB774"
+    },
+    {
+      "Index": 294,
+      "FileOffset": "0x268A",
+      "Name": "Texture2D",
+      "NonCasePreservingHash": "0xFDFE",
+      "CasePreservingHash": "0xD140"
+    },
+    {
+      "Index": 295,
+      "FileOffset": "0x269C",
+      "Name": "TP_Assault_EquipDequip_Montage",
+      "NonCasePreservingHash": "0x1C34",
+      "CasePreservingHash": "0xD613"
+    },
+    {
+      "Index": 296,
+      "FileOffset": "0x26C3",
+      "Name": "TP_Assault_Flaregun_Reload_A_Montage",
+      "NonCasePreservingHash": "0x9DFD",
+      "CasePreservingHash": "0x4B6E"
+    },
+    {
+      "Index": 297,
+      "FileOffset": "0x26F0",
+      "Name": "TP_Assault_Gunsling_A_Montage",
+      "NonCasePreservingHash": "0x7B33",
+      "CasePreservingHash": "0x7BFA"
+    },
+    {
+      "Index": 298,
+      "FileOffset": "0x2716",
+      "Name": "TP_Assault_Shoot_Shotgun_Montage",
+      "NonCasePreservingHash": "0xC03D",
+      "CasePreservingHash": "0xD061"
+    },
+    {
+      "Index": 299,
+      "FileOffset": "0x273F",
+      "Name": "TP_CharacterMontage",
+      "NonCasePreservingHash": "0x5EE8",
+      "CasePreservingHash": "0x8BA0"
+    },
+    {
+      "Index": 300,
+      "FileOffset": "0x275B",
+      "Name": "TP_EquipAnimation",
+      "NonCasePreservingHash": "0xAA3B",
+      "CasePreservingHash": "0x7D2D"
+    },
+    {
+      "Index": 301,
+      "FileOffset": "0x2775",
+      "Name": "TP_FireAnimation",
+      "NonCasePreservingHash": "0xEBAA",
+      "CasePreservingHash": "0x57D3"
+    },
+    {
+      "Index": 302,
+      "FileOffset": "0x278E",
+      "Name": "TP_ReloadAnimation",
+      "NonCasePreservingHash": "0xC0E5",
+      "CasePreservingHash": "0x37F9"
+    },
+    {
+      "Index": 303,
+      "FileOffset": "0x27A9",
+      "Name": "TPMesh",
+      "NonCasePreservingHash": "0xB707",
+      "CasePreservingHash": "0x3CE0"
+    },
+    {
+      "Index": 304,
+      "FileOffset": "0x27B8",
+      "Name": "UberGraphFrame",
+      "NonCasePreservingHash": "0x691E",
+      "CasePreservingHash": "0x3895"
+    },
+    {
+      "Index": 305,
+      "FileOffset": "0x27CF",
+      "Name": "UberGraphFunction",
+      "NonCasePreservingHash": "0xFF39",
+      "CasePreservingHash": "0xE5E2"
+    },
+    {
+      "Index": 306,
+      "FileOffset": "0x27E9",
+      "Name": "UPG_FlareGun_A_Duration",
+      "NonCasePreservingHash": "0x25AF",
+      "CasePreservingHash": "0xB5E7"
+    },
+    {
+      "Index": 307,
+      "FileOffset": "0x2809",
+      "Name": "UPG_FlareGun_A_MaxAmmo",
+      "NonCasePreservingHash": "0xCA71",
+      "CasePreservingHash": "0xB2F3"
+    },
+    {
+      "Index": 308,
+      "FileOffset": "0x2828",
+      "Name": "UPG_FlareGun_B_ClipSize",
+      "NonCasePreservingHash": "0x5FA0",
+      "CasePreservingHash": "0x9251"
+    },
+    {
+      "Index": 309,
+      "FileOffset": "0x2848",
+      "Name": "UPG_FlareGun_B_RoF",
+      "NonCasePreservingHash": "0x6EE0",
+      "CasePreservingHash": "0x671D"
+    },
+    {
+      "Index": 310,
+      "FileOffset": "0x2863",
+      "Name": "UPG_FlareGun_C_Autoreload",
+      "NonCasePreservingHash": "0xB995",
+      "CasePreservingHash": "0x6DD1"
+    },
+    {
+      "Index": 311,
+      "FileOffset": "0x2885",
+      "Name": "UPG_FlareGun_C_Duration",
+      "NonCasePreservingHash": "0x2945",
+      "CasePreservingHash": "0x9728"
+    },
+    {
+      "Index": 312,
+      "FileOffset": "0x28A5",
+      "Name": "UPG_FlareGun_C_MaxAmmo",
+      "NonCasePreservingHash": "0xA0F3",
+      "CasePreservingHash": "0x1D98"
+    },
+    {
+      "Index": 313,
+      "FileOffset": "0x28C4",
+      "Name": "UPGDESC_AmmoDriven",
+      "NonCasePreservingHash": "0x2E3E",
+      "CasePreservingHash": "0x24E7"
+    },
+    {
+      "Index": 314,
+      "FileOffset": "0x28DF",
+      "Name": "UPGDESC_FlaregunProjectile",
+      "NonCasePreservingHash": "0x57F4",
+      "CasePreservingHash": "0xD48B"
+    },
+    {
+      "Index": 315,
+      "FileOffset": "0x2902",
+      "Name": "Upgradable",
+      "NonCasePreservingHash": "0x411E",
+      "CasePreservingHash": "0x54FB"
+    },
+    {
+      "Index": 316,
+      "FileOffset": "0x2915",
+      "Name": "UpgradableGear",
+      "NonCasePreservingHash": "0x3B93",
+      "CasePreservingHash": "0x4238"
+    },
+    {
+      "Index": 317,
+      "FileOffset": "0x292C",
+      "Name": "UpgradableItem",
+      "NonCasePreservingHash": "0xEA51",
+      "CasePreservingHash": "0x5C33"
+    },
+    {
+      "Index": 318,
+      "FileOffset": "0x2943",
+      "Name": "UpgradableItemComponent",
+      "NonCasePreservingHash": "0xF5DB",
+      "CasePreservingHash": "0x7D47"
+    },
+    {
+      "Index": 319,
+      "FileOffset": "0x2963",
+      "Name": "Upgrades",
+      "NonCasePreservingHash": "0x8492",
+      "CasePreservingHash": "0x5E90"
+    },
+    {
+      "Index": 320,
+      "FileOffset": "0x2974",
+      "Name": "UpgradeTier",
+      "NonCasePreservingHash": "0xB631",
+      "CasePreservingHash": "0xDB17"
+    },
+    {
+      "Index": 321,
+      "FileOffset": "0x2988",
+      "Name": "UpgradeTiers",
+      "NonCasePreservingHash": "0x744F",
+      "CasePreservingHash": "0x94BF"
+    },
+    {
+      "Index": 322,
+      "FileOffset": "0x299D",
+      "Name": "UserWidget",
+      "NonCasePreservingHash": "0xEB0D",
+      "CasePreservingHash": "0x767D"
+    },
+    {
+      "Index": 323,
+      "FileOffset": "0x29B0",
+      "Name": "VariableGuid",
+      "NonCasePreservingHash": "0x96AB",
+      "CasePreservingHash": "0xDA7E"
+    },
+    {
+      "Index": 324,
+      "FileOffset": "0x29C5",
+      "Name": "Vector",
+      "NonCasePreservingHash": "0x1CA6",
+      "CasePreservingHash": "0x6404"
+    },
+    {
+      "Index": 325,
+      "FileOffset": "0x29D4",
+      "Name": "Vector2D",
+      "NonCasePreservingHash": "0x3055",
+      "CasePreservingHash": "0x96C"
+    },
+    {
+      "Index": 326,
+      "FileOffset": "0x29E5",
+      "Name": "Visibility",
+      "NonCasePreservingHash": "0x9506",
+      "CasePreservingHash": "0x2223"
+    },
+    {
+      "Index": 327,
+      "FileOffset": "0x29F8",
+      "Name": "WeaponDisplay_Base_AmmoCount_C",
+      "NonCasePreservingHash": "0x696A",
+      "CasePreservingHash": "0x9001"
+    },
+    {
+      "Index": 328,
+      "FileOffset": "0x2A1F",
+      "Name": "WeaponDisplay_FlareGun_AmmoCount_C",
+      "NonCasePreservingHash": "0x6732",
+      "CasePreservingHash": "0x6F02"
+    },
+    {
+      "Index": 329,
+      "FileOffset": "0x2A4A",
+      "Name": "WeaponEmptySound",
+      "NonCasePreservingHash": "0x4CB4",
+      "CasePreservingHash": "0x9620"
+    },
+    {
+      "Index": 330,
+      "FileOffset": "0x2A63",
+      "Name": "WidgetBlueprintGeneratedClass",
+      "NonCasePreservingHash": "0xCC76",
+      "CasePreservingHash": "0x19A0"
+    },
+    {
+      "Index": 331,
+      "FileOffset": "0x2A89",
+      "Name": "WidgetClass",
+      "NonCasePreservingHash": "0x318A",
+      "CasePreservingHash": "0x40E"
+    },
+    {
+      "Index": 332,
+      "FileOffset": "0x2A9D",
+      "Name": "WidgetComponent",
+      "NonCasePreservingHash": "0xF6C0",
+      "CasePreservingHash": "0x834D"
+    },
+    {
+      "Index": 333,
+      "FileOffset": "0x2AB5",
+      "Name": "WindowVisibility",
+      "NonCasePreservingHash": "0x404E",
+      "CasePreservingHash": "0xA294"
+    },
+    {
+      "Index": 334,
+      "FileOffset": "0x2ACE",
+      "Name": "WPN_FlareGun_C",
+      "NonCasePreservingHash": "0x5195",
+      "CasePreservingHash": "0x2076"
+    },
+    {
+      "Index": 335,
+      "FileOffset": "0x2AE5",
+      "Name": "WPN_Reload",
+      "NonCasePreservingHash": "0xBE93",
+      "CasePreservingHash": "0x38EA"
+    },
+    {
+      "Index": 336,
+      "FileOffset": "0x2AF8",
+      "Name": "WPN_Reload_TP",
+      "NonCasePreservingHash": "0xA883",
+      "CasePreservingHash": "0x7CD6"
+    }
+  ],
+  "ImportMapOffset": "0x2B0E",
+  "ObjectImports": [
+    {
+      "FileOffset": "0x2B0E",
+      "ClassPackage": "/Game/WeaponsNTools/FlareGun/ABP_Flaregun_A",
+      "ClassName": "ABP_Flaregun_A_C",
+      "OuterIndex": -95,
+      "ObjectName": "Default__ABP_Flaregun_A_C"
+    },
+    {
+      "FileOffset": "0x2B2A",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "AmmoDrivenWeaponUpgrade",
+      "OuterIndex": -106,
+      "ObjectName": "UPG_FlareGun_A_MaxAmmo"
+    },
+    {
+      "FileOffset": "0x2B46",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "AmmoDrivenWeaponUpgrade",
+      "OuterIndex": -107,
+      "ObjectName": "UPG_FlareGun_B_ClipSize"
+    },
+    {
+      "FileOffset": "0x2B62",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "AmmoDrivenWeaponUpgrade",
+      "OuterIndex": -108,
+      "ObjectName": "UPG_FlareGun_B_RoF"
+    },
+    {
+      "FileOffset": "0x2B7E",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "AmmoDrivenWeaponUpgrade",
+      "OuterIndex": -109,
+      "ObjectName": "UPG_FlareGun_C_Autoreload"
+    },
+    {
+      "FileOffset": "0x2B9A",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "AmmoDrivenWeaponUpgrade",
+      "OuterIndex": -111,
+      "ObjectName": "UPG_FlareGun_C_MaxAmmo_3"
+    },
+    {
+      "FileOffset": "0x2BB6",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "AmmoDriveWeaponAggregator",
+      "OuterIndex": -56,
+      "ObjectName": "Aggregator"
+    },
+    {
+      "FileOffset": "0x2BD2",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimBlueprintGeneratedClass",
+      "OuterIndex": -95,
+      "ObjectName": "ABP_Flaregun_A_C"
+    },
+    {
+      "FileOffset": "0x2BEE",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimMontage",
+      "OuterIndex": -79,
+      "ObjectName": "FP_Assault_Equip_Montage"
+    },
+    {
+      "FileOffset": "0x2C0A",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimMontage",
+      "OuterIndex": -80,
+      "ObjectName": "FP_Assault_Flaregun_Reload_A_Montage"
+    },
+    {
+      "FileOffset": "0x2C26",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimMontage",
+      "OuterIndex": -81,
+      "ObjectName": "FP_Assault_Gunsling_A_Montage"
+    },
+    {
+      "FileOffset": "0x2C42",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimMontage",
+      "OuterIndex": -82,
+      "ObjectName": "FP_Shotgun_Shoot_Montage"
+    },
+    {
+      "FileOffset": "0x2C5E",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimMontage",
+      "OuterIndex": -83,
+      "ObjectName": "TP_Assault_EquipDequip_Montage"
+    },
+    {
+      "FileOffset": "0x2C7A",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimMontage",
+      "OuterIndex": -84,
+      "ObjectName": "TP_Assault_Flaregun_Reload_A_Montage"
+    },
+    {
+      "FileOffset": "0x2C96",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimMontage",
+      "OuterIndex": -85,
+      "ObjectName": "TP_Assault_Gunsling_A_Montage"
+    },
+    {
+      "FileOffset": "0x2CB2",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimMontage",
+      "OuterIndex": -86,
+      "ObjectName": "TP_Assault_Shoot_Shotgun_Montage"
+    },
+    {
+      "FileOffset": "0x2CCE",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimMontage",
+      "OuterIndex": -96,
+      "ObjectName": "ANIM_Flaregun_Reload_A_Montage"
+    },
+    {
+      "FileOffset": "0x2CEA",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "AnimMontage",
+      "OuterIndex": -97,
+      "ObjectName": "ANIM_Flaregun_Reload_A_MontageTP"
+    },
+    {
+      "FileOffset": "0x2D06",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "BlueprintGeneratedClass",
+      "OuterIndex": -77,
+      "ObjectName": "CameraShake_Item_Flaregun_C"
+    },
+    {
+      "FileOffset": "0x2D22",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "BlueprintGeneratedClass",
+      "OuterIndex": -94,
+      "ObjectName": "BPL_UpgradeHelpers_C"
+    },
+    {
+      "FileOffset": "0x2D3E",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "BlueprintGeneratedClass",
+      "OuterIndex": -103,
+      "ObjectName": "PRJ_FlareGun_Projectile01_C"
+    },
+    {
+      "FileOffset": "0x2D5A",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "BlueprintGeneratedClass",
+      "OuterIndex": -115,
+      "ObjectName": "Default__BlueprintGeneratedClass"
+    },
+    {
+      "FileOffset": "0x2D76",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "BoxComponent",
+      "OuterIndex": -21,
+      "ObjectName": "Box_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x2D92",
+      "ClassPackage": "/Game/WeaponsNTools/BPL_UpgradeHelpers",
+      "ClassName": "BPL_UpgradeHelpers_C",
+      "OuterIndex": -94,
+      "ObjectName": "Default__BPL_UpgradeHelpers_C"
+    },
+    {
+      "FileOffset": "0x2DAE",
+      "ClassPackage": "/Game/Character/Camera/CameraShakes/CameraShake_Item_Flaregun",
+      "ClassName": "CameraShake_Item_Flaregun_C",
+      "OuterIndex": -77,
+      "ObjectName": "Default__CameraShake_Item_Flaregun_C"
+    },
+    {
+      "FileOffset": "0x2DCA",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -114,
+      "ObjectName": "Class"
+    },
+    {
+      "FileOffset": "0x2DE6",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -114,
+      "ObjectName": "Function"
+    },
+    {
+      "FileOffset": "0x2E02",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -114,
+      "ObjectName": "Object"
+    },
+    {
+      "FileOffset": "0x2E1E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -115,
+      "ObjectName": "Actor"
+    },
+    {
+      "FileOffset": "0x2E3A",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -115,
+      "ObjectName": "BlueprintGeneratedClass"
+    },
+    {
+      "FileOffset": "0x2E56",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -115,
+      "ObjectName": "GameplayStatics"
+    },
+    {
+      "FileOffset": "0x2E72",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -115,
+      "ObjectName": "KismetArrayLibrary"
+    },
+    {
+      "FileOffset": "0x2E8E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -115,
+      "ObjectName": "SceneComponent"
+    },
+    {
+      "FileOffset": "0x2EAA",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -115,
+      "ObjectName": "SCS_Node"
+    },
+    {
+      "FileOffset": "0x2EC6",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -115,
+      "ObjectName": "SimpleConstructionScript"
+    },
+    {
+      "FileOffset": "0x2EE2",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -115,
+      "ObjectName": "SkeletalMeshComponent"
+    },
+    {
+      "FileOffset": "0x2EFE",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "AmmoDriveWeaponAggregator"
+    },
+    {
+      "FileOffset": "0x2F1A",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "CrosshairAggregator"
+    },
+    {
+      "FileOffset": "0x2F36",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "FirstPersonSkeletalMeshComponent"
+    },
+    {
+      "FileOffset": "0x2F52",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "FirstPersonStaticMeshComponent"
+    },
+    {
+      "FileOffset": "0x2F6E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "FirstPersonWidgetComponent"
+    },
+    {
+      "FileOffset": "0x2F8A",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "FlareGun"
+    },
+    {
+      "FileOffset": "0x2FA6",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "FSDPlayerState"
+    },
+    {
+      "FileOffset": "0x2FC2",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "ProjectileLauncherComponent"
+    },
+    {
+      "FileOffset": "0x2FDE",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "SkinnableComponent"
+    },
+    {
+      "FileOffset": "0x2FFA",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "UpgradableGear"
+    },
+    {
+      "FileOffset": "0x3016",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -116,
+      "ObjectName": "UpgradableItemComponent"
+    },
+    {
+      "FileOffset": "0x3032",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -117,
+      "ObjectName": "UserWidget"
+    },
+    {
+      "FileOffset": "0x304E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "OuterIndex": -117,
+      "ObjectName": "WidgetComponent"
+    },
+    {
+      "FileOffset": "0x306A",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "CrosshairAggregator",
+      "OuterIndex": -116,
+      "ObjectName": "Default__CrosshairAggregator"
+    },
+    {
+      "FileOffset": "0x3086",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "DamageComponent",
+      "OuterIndex": -21,
+      "ObjectName": "Damage1_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x30A2",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "DialogDataAsset",
+      "OuterIndex": -78,
+      "ObjectName": "Shout_LightUp"
+    },
+    {
+      "FileOffset": "0x30BE",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "FirstPersonSkeletalMeshComponent",
+      "OuterIndex": -56,
+      "ObjectName": "FPMesh"
+    },
+    {
+      "FileOffset": "0x30DA",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "FirstPersonStaticMeshComponent",
+      "OuterIndex": -116,
+      "ObjectName": "Default__FirstPersonStaticMeshComponent"
+    },
+    {
+      "FileOffset": "0x30F6",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "FirstPersonWidgetComponent",
+      "OuterIndex": -116,
+      "ObjectName": "Default__FirstPersonWidgetComponent"
+    },
+    {
+      "FileOffset": "0x3112",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "FlareGun",
+      "OuterIndex": -116,
+      "ObjectName": "Default__FlareGun"
+    },
+    {
+      "FileOffset": "0x312E",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "FlaregunProjectileUpgrade",
+      "OuterIndex": -105,
+      "ObjectName": "UPG_FlareGun_A_Duration"
+    },
+    {
+      "FileOffset": "0x314A",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "FlaregunProjectileUpgrade",
+      "OuterIndex": -110,
+      "ObjectName": "UPG_FlareGun_C_Duration_3"
+    },
+    {
+      "FileOffset": "0x3166",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "ForceFeedbackEffect",
+      "OuterIndex": -113,
+      "ObjectName": "ShotgunRumble"
+    },
+    {
+      "FileOffset": "0x3182",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Function",
+      "OuterIndex": -114,
+      "ObjectName": "Default__Function"
+    },
+    {
+      "FileOffset": "0x319E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Function",
+      "OuterIndex": -29,
+      "ObjectName": "ReceiveBeginPlay"
+    },
+    {
+      "FileOffset": "0x31BA",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Function",
+      "OuterIndex": -31,
+      "ObjectName": "GetObjectClass"
+    },
+    {
+      "FileOffset": "0x31D6",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Function",
+      "OuterIndex": -32,
+      "ObjectName": "Array_Add"
+    },
+    {
+      "FileOffset": "0x31F2",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Function",
+      "OuterIndex": -46,
+      "ObjectName": "GetGearStatEntry"
+    },
+    {
+      "FileOffset": "0x320E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Function",
+      "OuterIndex": -49,
+      "ObjectName": "GetUserWidgetObject"
+    },
+    {
+      "FileOffset": "0x322A",
+      "ClassPackage": "/Game/WeaponsNTools/_Crosshairs/NewCrossHairs/HUD_CrossHair_FlareGun",
+      "ClassName": "HUD_CrossHair_FlareGun_C",
+      "OuterIndex": -91,
+      "ObjectName": "Default__HUD_CrossHair_FlareGun_C"
+    },
+    {
+      "FileOffset": "0x3246",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "ItemCharacterAnimationSet",
+      "OuterIndex": -93,
+      "ObjectName": "IAS_Rifle"
+    },
+    {
+      "FileOffset": "0x3262",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "ItemID",
+      "OuterIndex": -98,
+      "ObjectName": "ID_FlareGun"
+    },
+    {
+      "FileOffset": "0x327E",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "KismetArrayLibrary",
+      "OuterIndex": -115,
+      "ObjectName": "Default__KismetArrayLibrary"
+    },
+    {
+      "FileOffset": "0x329A",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "MaterialInstanceConstant",
+      "OuterIndex": -99,
+      "ObjectName": "M_WPN_Flaregun_Grip01"
+    },
+    {
+      "FileOffset": "0x32B6",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "MaterialInstanceConstant",
+      "OuterIndex": -100,
+      "ObjectName": "M_WPN_Flaregun_Metal01"
+    },
+    {
+      "FileOffset": "0x32D2",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "MaterialInstanceConstant",
+      "OuterIndex": -101,
+      "ObjectName": "M_WPN_Flaregun_Metal02"
+    },
+    {
+      "FileOffset": "0x32EE",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/Audio/WeaponsNTools/WPN_BasicPistol/Pistol_Empty_01_Cue"
+    },
+    {
+      "FileOffset": "0x330A",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/Audio/WeaponsNTools/WPN_BasicPistol/Pistol_NearEmpty_01_Cue"
+    },
+    {
+      "FileOffset": "0x3326",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/Audio/WeaponsNTools/WPN_FlareGun/FlareGun_Fire_Cue"
+    },
+    {
+      "FileOffset": "0x3342",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/Audio/WeaponsNTools/WPN_FlareGun/FlareGun_Reload_Cue"
+    },
+    {
+      "FileOffset": "0x335E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/Character/Camera/CameraShakes/CameraShake_Item_Flaregun"
+    },
+    {
+      "FileOffset": "0x337A",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/Character/Shouts/HandlingWeaponsNTools/Shout_LightUp"
+    },
+    {
+      "FileOffset": "0x3396",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/CharacterStructure/Gear_Assault/FP/FP_Assault_Equip_Montage"
+    },
+    {
+      "FileOffset": "0x33B2",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/CharacterStructure/Gear_Assault/FP/FP_Assault_Flaregun_Reload_A_Montage"
+    },
+    {
+      "FileOffset": "0x33CE",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/CharacterStructure/Gear_Assault/FP/FP_Assault_Gunsling_A_Montage"
+    },
+    {
+      "FileOffset": "0x33EA",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/CharacterStructure/Gear_Assault/FP/FP_Shotgun_Shoot_Montage"
+    },
+    {
+      "FileOffset": "0x3406",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/CharacterStructure/Gear_Assault/TP/TP_Assault_EquipDequip_Montage"
+    },
+    {
+      "FileOffset": "0x3422",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/CharacterStructure/Gear_Assault/TP/TP_Assault_Flaregun_Reload_A_Montage"
+    },
+    {
+      "FileOffset": "0x343E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/CharacterStructure/Gear_Assault/TP/TP_Assault_Gunsling_A_Montage"
+    },
+    {
+      "FileOffset": "0x345A",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/CharacterStructure/Gear_Assault/TP/TP_Assault_Shoot_Shotgun_Montage"
+    },
+    {
+      "FileOffset": "0x3476",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/Game/Text/GearCategories"
+    },
+    {
+      "FileOffset": "0x3492",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/UI/Art/Icons/Icons_Gear/GearIcon_Flaregun_Border"
+    },
+    {
+      "FileOffset": "0x34AE",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/UI/Art/Icons/Icons_Gear/GearIcon_Flaregun_Full"
+    },
+    {
+      "FileOffset": "0x34CA",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/UI/WeaponDisplays/WeaponDisplay_Base_AmmoCount"
+    },
+    {
+      "FileOffset": "0x34E6",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/_Crosshairs/NewCrossHairs/HUD_CrossHair_FlareGun"
+    },
+    {
+      "FileOffset": "0x3502",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/_TempAssets/SM_Screen_007"
+    },
+    {
+      "FileOffset": "0x351E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/Animationsets/IAS_Rifle"
+    },
+    {
+      "FileOffset": "0x353A",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/BPL_UpgradeHelpers"
+    },
+    {
+      "FileOffset": "0x3556",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/ABP_Flaregun_A"
+    },
+    {
+      "FileOffset": "0x3572",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/ANIM_Flaregun_Reload_A_Montage"
+    },
+    {
+      "FileOffset": "0x358E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/ANIM_Flaregun_Reload_A_MontageTP"
+    },
+    {
+      "FileOffset": "0x35AA",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/ID_FlareGun"
+    },
+    {
+      "FileOffset": "0x35C6",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/M_WPN_Flaregun_Grip01"
+    },
+    {
+      "FileOffset": "0x35E2",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/M_WPN_Flaregun_Metal01"
+    },
+    {
+      "FileOffset": "0x35FE",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/M_WPN_Flaregun_Metal02"
+    },
+    {
+      "FileOffset": "0x361A",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/P_Flaregun_Fire"
+    },
+    {
+      "FileOffset": "0x3636",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01"
+    },
+    {
+      "FileOffset": "0x3652",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/SK_Flaregun_B"
+    },
+    {
+      "FileOffset": "0x366E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_A_Duration"
+    },
+    {
+      "FileOffset": "0x368A",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_A_MaxAmmo"
+    },
+    {
+      "FileOffset": "0x36A6",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_B_ClipSize"
+    },
+    {
+      "FileOffset": "0x36C2",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_B_RoF"
+    },
+    {
+      "FileOffset": "0x36DE",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_C_Autoreload"
+    },
+    {
+      "FileOffset": "0x36FA",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_C_Duration_3"
+    },
+    {
+      "FileOffset": "0x3716",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/UPG_FlareGun_C_MaxAmmo_3"
+    },
+    {
+      "FileOffset": "0x3732",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/FlareGun/WeaponDisplay_FlareGun_AmmoCount"
+    },
+    {
+      "FileOffset": "0x374E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Game/WeaponsNTools/Rumble/ShotgunRumble"
+    },
+    {
+      "FileOffset": "0x376A",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Script/CoreUObject"
+    },
+    {
+      "FileOffset": "0x3786",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Script/Engine"
+    },
+    {
+      "FileOffset": "0x37A2",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Script/FSD"
+    },
+    {
+      "FileOffset": "0x37BE",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "OuterIndex": 0,
+      "ObjectName": "/Script/UMG"
+    },
+    {
+      "FileOffset": "0x37DA",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "ParticleSystem",
+      "OuterIndex": -102,
+      "ObjectName": "P_Flaregun_Fire"
+    },
+    {
+      "FileOffset": "0x37F6",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "ParticleSystemComponent",
+      "OuterIndex": -21,
+      "ObjectName": "ParticleSystem_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x3812",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "PointLightComponent",
+      "OuterIndex": -21,
+      "ObjectName": "PointLight_Dead_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x382E",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "PointLightComponent",
+      "OuterIndex": -21,
+      "ObjectName": "PointLight_NoShadow_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x384A",
+      "ClassPackage": "/Game/WeaponsNTools/FlareGun/PRJ_FlareGun_Projectile01",
+      "ClassName": "PRJ_FlareGun_Projectile01_C",
+      "OuterIndex": -103,
+      "ObjectName": "Default__PRJ_FlareGun_Projectile01_C"
+    },
+    {
+      "FileOffset": "0x3866",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "ProjectileLauncherComponent",
+      "OuterIndex": -116,
+      "ObjectName": "Default__ProjectileLauncherComponent"
+    },
+    {
+      "FileOffset": "0x3882",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "ProjectileMovementComponent",
+      "OuterIndex": -122,
+      "ObjectName": "ProjectileComponent"
+    },
+    {
+      "FileOffset": "0x389E",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SceneComponent",
+      "OuterIndex": -21,
+      "ObjectName": "DefaultSceneRoot_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x38BA",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SceneComponent",
+      "OuterIndex": -115,
+      "ObjectName": "Default__SceneComponent"
+    },
+    {
+      "FileOffset": "0x38D6",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SceneComponent",
+      "OuterIndex": -56,
+      "ObjectName": "Root"
+    },
+    {
+      "FileOffset": "0x38F2",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "ScriptStruct",
+      "OuterIndex": -115,
+      "ObjectName": "PointerToUberGraphFrame"
+    },
+    {
+      "FileOffset": "0x390E",
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "ScriptStruct",
+      "OuterIndex": -116,
+      "ObjectName": "GearStatEntry"
+    },
+    {
+      "FileOffset": "0x392A",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SCS_Node",
+      "OuterIndex": -115,
+      "ObjectName": "Default__SCS_Node"
+    },
+    {
+      "FileOffset": "0x3946",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SimpleConstructionScript",
+      "OuterIndex": -115,
+      "ObjectName": "Default__SimpleConstructionScript"
+    },
+    {
+      "FileOffset": "0x3962",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SkeletalMesh",
+      "OuterIndex": -104,
+      "ObjectName": "SK_Flaregun_B"
+    },
+    {
+      "FileOffset": "0x397E",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SkeletalMeshComponent",
+      "OuterIndex": -56,
+      "ObjectName": "TPMesh"
+    },
+    {
+      "FileOffset": "0x399A",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "SkinnableComponent",
+      "OuterIndex": -56,
+      "ObjectName": "Skinnable"
+    },
+    {
+      "FileOffset": "0x39B6",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SoundCue",
+      "OuterIndex": -73,
+      "ObjectName": "Pistol_Empty_01_Cue"
+    },
+    {
+      "FileOffset": "0x39D2",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SoundCue",
+      "OuterIndex": -74,
+      "ObjectName": "Pistol_NearEmpty_01_Cue"
+    },
+    {
+      "FileOffset": "0x39EE",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SoundCue",
+      "OuterIndex": -75,
+      "ObjectName": "FlareGun_Fire_Cue"
+    },
+    {
+      "FileOffset": "0x3A0A",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SoundCue",
+      "OuterIndex": -76,
+      "ObjectName": "FlareGun_Reload_Cue"
+    },
+    {
+      "FileOffset": "0x3A26",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SphereComponent",
+      "OuterIndex": -122,
+      "ObjectName": "SphereComponent"
+    },
+    {
+      "FileOffset": "0x3A42",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SpotLightComponent",
+      "OuterIndex": -21,
+      "ObjectName": "SpotLight_Shadow_1_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x3A5E",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SpotLightComponent",
+      "OuterIndex": -21,
+      "ObjectName": "SpotLight_Shadow_2_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x3A7A",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "SpotLightComponent",
+      "OuterIndex": -21,
+      "ObjectName": "SpotLight_Shadow_3_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x3A96",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "StaticMesh",
+      "OuterIndex": -92,
+      "ObjectName": "SM_Screen_007"
+    },
+    {
+      "FileOffset": "0x3AB2",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "StaticMeshComponent",
+      "OuterIndex": -21,
+      "ObjectName": "Arrow_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x3ACE",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "StaticMeshComponent",
+      "OuterIndex": -21,
+      "ObjectName": "StaticMesh_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x3AEA",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "StringTable",
+      "OuterIndex": -87,
+      "ObjectName": "GearCategories"
+    },
+    {
+      "FileOffset": "0x3B06",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "TerrainDetectComponent",
+      "OuterIndex": -21,
+      "ObjectName": "TerrainDetect_GEN_VARIABLE"
+    },
+    {
+      "FileOffset": "0x3B22",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "Texture2D",
+      "OuterIndex": -88,
+      "ObjectName": "GearIcon_Flaregun_Border"
+    },
+    {
+      "FileOffset": "0x3B3E",
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "Texture2D",
+      "OuterIndex": -89,
+      "ObjectName": "GearIcon_Flaregun_Full"
+    },
+    {
+      "FileOffset": "0x3B5A",
+      "ClassPackage": "/Script/FSD",
+      "ClassName": "UpgradableItemComponent",
+      "OuterIndex": -56,
+      "ObjectName": "Upgradable"
+    },
+    {
+      "FileOffset": "0x3B76",
+      "ClassPackage": "/Game/UI/WeaponDisplays/WeaponDisplay_Base_AmmoCount",
+      "ClassName": "WeaponDisplay_Base_AmmoCount_C",
+      "OuterIndex": -90,
+      "ObjectName": "Default__WeaponDisplay_Base_AmmoCount_C"
+    },
+    {
+      "FileOffset": "0x3B92",
+      "ClassPackage": "/Game/WeaponsNTools/FlareGun/WeaponDisplay_FlareGun_AmmoCount",
+      "ClassName": "WeaponDisplay_FlareGun_AmmoCount_C",
+      "OuterIndex": -112,
+      "ObjectName": "Default__WeaponDisplay_FlareGun_AmmoCount_C"
+    },
+    {
+      "FileOffset": "0x3BAE",
+      "ClassPackage": "/Script/UMG",
+      "ClassName": "WidgetBlueprintGeneratedClass",
+      "OuterIndex": -90,
+      "ObjectName": "WeaponDisplay_Base_AmmoCount_C"
+    },
+    {
+      "FileOffset": "0x3BCA",
+      "ClassPackage": "/Script/UMG",
+      "ClassName": "WidgetBlueprintGeneratedClass",
+      "OuterIndex": -91,
+      "ObjectName": "HUD_CrossHair_FlareGun_C"
+    },
+    {
+      "FileOffset": "0x3BE6",
+      "ClassPackage": "/Script/UMG",
+      "ClassName": "WidgetBlueprintGeneratedClass",
+      "OuterIndex": -112,
+      "ObjectName": "WeaponDisplay_FlareGun_AmmoCount_C"
+    }
+  ],
+  "ExportMapOffset": "0x3C02",
+  "ObjectExports": [
+    {
+      "FileOffset": "0x3C02",
+      "ClassIndex": -27,
+      "ClassIndexStr": "Function",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 1,
+      "TemplateIndex": -60,
+      "TemplateIndexStr": "Default__Function",
+      "OuterIndex": 4,
+      "OuterIndexStr": "WPN_FlareGun_C",
+      "ObjectName": "ExecuteUbergraph_WPN_FlareGun",
+      "ObjectFlags": "RF_Public",
+      "SerialSize": 502,
+      "SerialOffset": 18546,
+      "ExportFileOffset": 0,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 0,
+      "SerializationBeforeSerializationDependencies": 0,
+      "CreateBeforeSerializationDependencies": 5,
+      "SerializationBeforeCreateDependencies": 0,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x3C6A",
+      "ClassIndex": -27,
+      "ClassIndexStr": "Function",
+      "SuperIndex": -61,
+      "SuperIndexStr": "ReceiveBeginPlay",
+      "ThisIndex": 2,
+      "TemplateIndex": -60,
+      "TemplateIndexStr": "Default__Function",
+      "OuterIndex": 4,
+      "OuterIndexStr": "WPN_FlareGun_C",
+      "ObjectName": "ReceiveBeginPlay",
+      "ObjectFlags": "RF_Public",
+      "SerialSize": 58,
+      "SerialOffset": 19048,
+      "ExportFileOffset": 502,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 6,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 2,
+      "SerializationBeforeCreateDependencies": 0,
+      "CreateBeforeCreateDependencies": 2
+    },
+    {
+      "FileOffset": "0x3CD2",
+      "ClassIndex": -27,
+      "ClassIndexStr": "Function",
+      "SuperIndex": -64,
+      "SuperIndexStr": "GetGearStatEntry",
+      "ThisIndex": 3,
+      "TemplateIndex": -60,
+      "TemplateIndexStr": "Default__Function",
+      "OuterIndex": 4,
+      "OuterIndexStr": "WPN_FlareGun_C",
+      "ObjectName": "GetGearStatEntry",
+      "ObjectFlags": "RF_Public",
+      "SerialSize": 2585,
+      "SerialOffset": 19106,
+      "ExportFileOffset": 560,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 11,
+      "SerializationBeforeSerializationDependencies": 2,
+      "CreateBeforeSerializationDependencies": 11,
+      "SerializationBeforeCreateDependencies": 0,
+      "CreateBeforeCreateDependencies": 2
+    },
+    {
+      "FileOffset": "0x3D3A",
+      "ClassIndex": -30,
+      "ClassIndexStr": "BlueprintGeneratedClass",
+      "SuperIndex": -42,
+      "SuperIndexStr": "FlareGun",
+      "ThisIndex": 4,
+      "TemplateIndex": -22,
+      "TemplateIndexStr": "Default__BlueprintGeneratedClass",
+      "OuterIndex": 0,
+      "OuterIndexStr": "UObject",
+      "ObjectName": "WPN_FlareGun_C",
+      "ObjectFlags": "RF_Public, RF_Transactional",
+      "SerialSize": 441,
+      "SerialOffset": 21691,
+      "ExportFileOffset": 3145,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 26,
+      "SerializationBeforeSerializationDependencies": 17,
+      "CreateBeforeSerializationDependencies": 6,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x3DA2",
+      "ClassIndex": 4,
+      "ClassIndexStr": "WPN_FlareGun_C",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 5,
+      "TemplateIndex": -56,
+      "TemplateIndexStr": "Default__FlareGun",
+      "OuterIndex": 0,
+      "OuterIndexStr": "UObject",
+      "ObjectName": "Default__WPN_FlareGun_C",
+      "ObjectFlags": "RF_Public, RF_ClassDefaultObject, RF_ArchetypeObject",
+      "SerialSize": 1635,
+      "SerialOffset": 22132,
+      "ExportFileOffset": 3586,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 52,
+      "SerializationBeforeSerializationDependencies": 8,
+      "CreateBeforeSerializationDependencies": 26,
+      "SerializationBeforeCreateDependencies": 8,
+      "CreateBeforeCreateDependencies": 0
+    },
+    {
+      "FileOffset": "0x3E0A",
+      "ClassIndex": -37,
+      "ClassIndexStr": "AmmoDriveWeaponAggregator",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 6,
+      "TemplateIndex": -7,
+      "TemplateIndexStr": "Aggregator",
+      "OuterIndex": 5,
+      "OuterIndexStr": "Default__WPN_FlareGun_C",
+      "ObjectName": "Aggregator",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "SerialSize": 12,
+      "SerialOffset": 23767,
+      "ExportFileOffset": 5221,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": true,
+      "IsAsset": false,
+      "FirstExportDependency": 94,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 1,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x3E72",
+      "ClassIndex": -38,
+      "ClassIndexStr": "CrosshairAggregator",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 7,
+      "TemplateIndex": -50,
+      "TemplateIndexStr": "Default__CrosshairAggregator",
+      "OuterIndex": 4,
+      "OuterIndexStr": "WPN_FlareGun_C",
+      "ObjectName": "CrosshairAggregator_GEN_VARIABLE",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject",
+      "SerialSize": 41,
+      "SerialOffset": 23779,
+      "ExportFileOffset": 5233,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 99,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 1,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x3EDA",
+      "ClassIndex": -39,
+      "ClassIndexStr": "FirstPersonSkeletalMeshComponent",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 8,
+      "TemplateIndex": -53,
+      "TemplateIndexStr": "FPMesh",
+      "OuterIndex": 5,
+      "OuterIndexStr": "Default__WPN_FlareGun_C",
+      "ObjectName": "FPMesh",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "SerialSize": 185,
+      "SerialOffset": 23820,
+      "ExportFileOffset": 5274,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": true,
+      "IsAsset": false,
+      "FirstExportDependency": 104,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 4,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x3F42",
+      "ClassIndex": -40,
+      "ClassIndexStr": "FirstPersonStaticMeshComponent",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 9,
+      "TemplateIndex": -54,
+      "TemplateIndexStr": "Default__FirstPersonStaticMeshComponent",
+      "OuterIndex": 4,
+      "OuterIndexStr": "WPN_FlareGun_C",
+      "ObjectName": "FirstPersonStaticMesh_GEN_VARIABLE",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject",
+      "SerialSize": 946,
+      "SerialOffset": 24005,
+      "ExportFileOffset": 5459,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 112,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 4,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x3FAA",
+      "ClassIndex": -41,
+      "ClassIndexStr": "FirstPersonWidgetComponent",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 10,
+      "TemplateIndex": -55,
+      "TemplateIndexStr": "Default__FirstPersonWidgetComponent",
+      "OuterIndex": 4,
+      "OuterIndexStr": "WPN_FlareGun_C",
+      "ObjectName": "FirstPersonWidget_GEN_VARIABLE",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject",
+      "SerialSize": 1115,
+      "SerialOffset": 24951,
+      "ExportFileOffset": 6405,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 120,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 1,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x4012",
+      "ClassIndex": -44,
+      "ClassIndexStr": "ProjectileLauncherComponent",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 11,
+      "TemplateIndex": -123,
+      "TemplateIndexStr": "Default__ProjectileLauncherComponent",
+      "OuterIndex": 4,
+      "OuterIndexStr": "WPN_FlareGun_C",
+      "ObjectName": "ProjectileLauncher_GEN_VARIABLE",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject",
+      "SerialSize": 41,
+      "SerialOffset": 26066,
+      "ExportFileOffset": 7520,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 125,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 1,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x407A",
+      "ClassIndex": -33,
+      "ClassIndexStr": "SceneComponent",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 12,
+      "TemplateIndex": -127,
+      "TemplateIndexStr": "Root",
+      "OuterIndex": 5,
+      "OuterIndexStr": "Default__WPN_FlareGun_C",
+      "ObjectName": "Root",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "SerialSize": 12,
+      "SerialOffset": 26107,
+      "ExportFileOffset": 7561,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": true,
+      "IsAsset": false,
+      "FirstExportDependency": 130,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 1,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x40E2",
+      "ClassIndex": -33,
+      "ClassIndexStr": "SceneComponent",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 13,
+      "TemplateIndex": -126,
+      "TemplateIndexStr": "Default__SceneComponent",
+      "OuterIndex": 4,
+      "OuterIndexStr": "WPN_FlareGun_C",
+      "ObjectName": "DefaultSceneRoot_GEN_VARIABLE",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject",
+      "SerialSize": 12,
+      "SerialOffset": 26119,
+      "ExportFileOffset": 7573,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 135,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 0,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x414A",
+      "ClassIndex": -34,
+      "ClassIndexStr": "SCS_Node",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 14,
+      "TemplateIndex": -130,
+      "TemplateIndexStr": "Default__SCS_Node",
+      "OuterIndex": 19,
+      "OuterIndexStr": "SimpleConstructionScript_3",
+      "ObjectName": "SCS_Node_1",
+      "ObjectFlags": "RF_Transactional",
+      "SerialSize": 268,
+      "SerialOffset": 26131,
+      "ExportFileOffset": 7585,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 139,
+      "SerializationBeforeSerializationDependencies": 0,
+      "CreateBeforeSerializationDependencies": 3,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x41B2",
+      "ClassIndex": -34,
+      "ClassIndexStr": "SCS_Node",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 15,
+      "TemplateIndex": -130,
+      "TemplateIndexStr": "Default__SCS_Node",
+      "OuterIndex": 19,
+      "OuterIndexStr": "SimpleConstructionScript_3",
+      "ObjectName": "SCS_Node_3",
+      "ObjectFlags": "RF_Transactional",
+      "SerialSize": 168,
+      "SerialOffset": 26399,
+      "ExportFileOffset": 7853,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 145,
+      "SerializationBeforeSerializationDependencies": 0,
+      "CreateBeforeSerializationDependencies": 2,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x421A",
+      "ClassIndex": -34,
+      "ClassIndexStr": "SCS_Node",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 16,
+      "TemplateIndex": -130,
+      "TemplateIndexStr": "Default__SCS_Node",
+      "OuterIndex": 19,
+      "OuterIndexStr": "SimpleConstructionScript_3",
+      "ObjectName": "SCS_Node_4",
+      "ObjectFlags": "RF_Transactional",
+      "SerialSize": 168,
+      "SerialOffset": 26567,
+      "ExportFileOffset": 8021,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 150,
+      "SerializationBeforeSerializationDependencies": 0,
+      "CreateBeforeSerializationDependencies": 2,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x4282",
+      "ClassIndex": -34,
+      "ClassIndexStr": "SCS_Node",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 17,
+      "TemplateIndex": -130,
+      "TemplateIndexStr": "Default__SCS_Node",
+      "OuterIndex": 19,
+      "OuterIndexStr": "SimpleConstructionScript_3",
+      "ObjectName": "SCS_Node_6",
+      "ObjectFlags": "RF_Transactional",
+      "SerialSize": 168,
+      "SerialOffset": 26735,
+      "ExportFileOffset": 8189,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 155,
+      "SerializationBeforeSerializationDependencies": 0,
+      "CreateBeforeSerializationDependencies": 2,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x42EA",
+      "ClassIndex": -34,
+      "ClassIndexStr": "SCS_Node",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 18,
+      "TemplateIndex": -130,
+      "TemplateIndexStr": "Default__SCS_Node",
+      "OuterIndex": 19,
+      "OuterIndexStr": "SimpleConstructionScript_3",
+      "ObjectName": "SCS_Node_7",
+      "ObjectFlags": "RF_Transactional",
+      "SerialSize": 168,
+      "SerialOffset": 26903,
+      "ExportFileOffset": 8357,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 160,
+      "SerializationBeforeSerializationDependencies": 0,
+      "CreateBeforeSerializationDependencies": 2,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x4352",
+      "ClassIndex": -35,
+      "ClassIndexStr": "SimpleConstructionScript",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 19,
+      "TemplateIndex": -131,
+      "TemplateIndexStr": "Default__SimpleConstructionScript",
+      "OuterIndex": 4,
+      "OuterIndexStr": "WPN_FlareGun_C",
+      "ObjectName": "SimpleConstructionScript_3",
+      "ObjectFlags": "RF_Transactional",
+      "SerialSize": 143,
+      "SerialOffset": 27071,
+      "ExportFileOffset": 8525,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": false,
+      "IsAsset": false,
+      "FirstExportDependency": 165,
+      "SerializationBeforeSerializationDependencies": 0,
+      "CreateBeforeSerializationDependencies": 5,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x43BA",
+      "ClassIndex": -36,
+      "ClassIndexStr": "SkeletalMeshComponent",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 20,
+      "TemplateIndex": -133,
+      "TemplateIndexStr": "TPMesh",
+      "OuterIndex": 5,
+      "OuterIndexStr": "Default__WPN_FlareGun_C",
+      "ObjectName": "TPMesh",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "SerialSize": 185,
+      "SerialOffset": 27214,
+      "ExportFileOffset": 8668,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": true,
+      "IsAsset": false,
+      "FirstExportDependency": 173,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 4,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x4422",
+      "ClassIndex": -45,
+      "ClassIndexStr": "SkinnableComponent",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 21,
+      "TemplateIndex": -134,
+      "TemplateIndexStr": "Skinnable",
+      "OuterIndex": 5,
+      "OuterIndexStr": "Default__WPN_FlareGun_C",
+      "ObjectName": "Skinnable",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "SerialSize": 12,
+      "SerialOffset": 27399,
+      "ExportFileOffset": 8853,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": true,
+      "IsAsset": false,
+      "FirstExportDependency": 181,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 1,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    },
+    {
+      "FileOffset": "0x448A",
+      "ClassIndex": -47,
+      "ClassIndexStr": "UpgradableItemComponent",
+      "SuperIndex": 0,
+      "SuperIndexStr": "Not_UStruct",
+      "ThisIndex": 22,
+      "TemplateIndex": -150,
+      "TemplateIndexStr": "Upgradable",
+      "OuterIndex": 5,
+      "OuterIndexStr": "Default__WPN_FlareGun_C",
+      "ObjectName": "Upgradable",
+      "ObjectFlags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "SerialSize": 911,
+      "SerialOffset": 27411,
+      "ExportFileOffset": 8865,
+      "ForcedExport": false,
+      "NotForClient": false,
+      "NotForServer": false,
+      "WasFiltered": false,
+      "PackagedGuid": {
+        "GUID": "0-0-0-0"
+      },
+      "PackageFlags": "PKG_None",
+      "NotAlwaysLoadedForEditorGame": true,
+      "IsAsset": false,
+      "FirstExportDependency": 186,
+      "SerializationBeforeSerializationDependencies": 1,
+      "CreateBeforeSerializationDependencies": 11,
+      "SerializationBeforeCreateDependencies": 2,
+      "CreateBeforeCreateDependencies": 1
+    }
+  ],
+  "DependencyMapOffset": "0x0",
+  "DependencyMap": [],
+  "PreloadDependencyMapOffset": "0x0",
+  "PreloadDependencyMap": [],
+  "ExportValues": [
+    {
+      "Object Flags": "RF_Public",
+      "Parent": "Not_UStruct",
+      "Outer": "WPN_FlareGun_C",
+      "Template": "Default__Function",
+      "Class": "Function",
+      "Object": "ExecuteUbergraph_WPN_FlareGun",
+      "File Offset": 0,
+      "Struct Size": 502,
+      "Potential Properties": [
+        {
+          "Property": "None",
+          "Offset": 0,
+          "Size": 0,
+          "Array Index": 0,
+          "Value Offset": 0
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public",
+      "Parent": "ReceiveBeginPlay",
+      "Outer": "WPN_FlareGun_C",
+      "Template": "Default__Function",
+      "Class": "Function",
+      "Object": "ReceiveBeginPlay",
+      "File Offset": 502,
+      "Struct Size": 58,
+      "Potential Properties": [
+        {
+          "Property": "None",
+          "Offset": 502,
+          "Size": 0,
+          "Array Index": 0,
+          "Value Offset": 0
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public",
+      "Parent": "GetGearStatEntry",
+      "Outer": "WPN_FlareGun_C",
+      "Template": "Default__Function",
+      "Class": "Function",
+      "Object": "GetGearStatEntry",
+      "File Offset": 560,
+      "Struct Size": 2585,
+      "Potential Properties": [
+        {
+          "Property": "None",
+          "Offset": 560,
+          "Size": 0,
+          "Array Index": 0,
+          "Value Offset": 0
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional",
+      "Parent": "FlareGun",
+      "Outer": "UObject",
+      "Template": "Default__BlueprintGeneratedClass",
+      "Class": "BlueprintGeneratedClass",
+      "Object": "WPN_FlareGun_C",
+      "File Offset": 3145,
+      "Struct Size": 441,
+      "Potential Properties": [
+        {
+          "Property": "SimpleConstructionScript",
+          "Type": "ObjectProperty",
+          "Offset": 3145,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 3170,
+          "Data Value": "Export:SimpleConstructionScript_3"
+        },
+        {
+          "Property": "UberGraphFunction",
+          "Type": "ObjectProperty",
+          "Offset": 3174,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 3199,
+          "Data Value": "Export:ExecuteUbergraph_WPN_FlareGun"
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_ClassDefaultObject, RF_ArchetypeObject",
+      "Parent": "Not_UStruct",
+      "Outer": "UObject",
+      "Template": "Default__FlareGun",
+      "Class": "WPN_FlareGun_C",
+      "Object": "Default__WPN_FlareGun_C",
+      "File Offset": 3586,
+      "Struct Size": 1635,
+      "Potential Properties": [
+        {
+          "Property": "UberGraphFrame",
+          "Type": "StructProperty",
+          "Offset": 3586,
+          "Size": 8,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "PointerToUberGraphFrame",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 3635
+        },
+        {
+          "Property": "Aggregator",
+          "Type": "ObjectProperty",
+          "Offset": 3643,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 3668,
+          "Data Value": "Export:Aggregator"
+        },
+        {
+          "Property": "FP_FireAnimation",
+          "Type": "ObjectProperty",
+          "Offset": 3672,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 3697,
+          "Data Value": "Import:FP_Shotgun_Shoot_Montage"
+        },
+        {
+          "Property": "TP_FireAnimation",
+          "Type": "ObjectProperty",
+          "Offset": 3701,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 3726,
+          "Data Value": "Import:TP_Assault_Shoot_Shotgun_Montage"
+        },
+        {
+          "Property": "FP_ReloadAnimation",
+          "Type": "ObjectProperty",
+          "Offset": 3730,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 3755,
+          "Data Value": "Import:FP_Assault_Flaregun_Reload_A_Montage"
+        },
+        {
+          "Property": "GunslingAnimations",
+          "Type": "ArrayProperty",
+          "Offset": 3759,
+          "Size": 148,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "StructProperty"
+          },
+          "Value Offset": 3792,
+          "Data Value": {
+            "Count": 1,
+            "Items": []
+          }
+        },
+        {
+          "Property": "TP_ReloadAnimation",
+          "Type": "ObjectProperty",
+          "Offset": 3940,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 3965,
+          "Data Value": "Import:TP_Assault_Flaregun_Reload_A_Montage"
+        },
+        {
+          "Property": "WPN_Reload",
+          "Type": "ObjectProperty",
+          "Offset": 3969,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 3994,
+          "Data Value": "Import:ANIM_Flaregun_Reload_A_Montage"
+        },
+        {
+          "Property": "WPN_Reload_TP",
+          "Type": "ObjectProperty",
+          "Offset": 3998,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4023,
+          "Data Value": "Import:ANIM_Flaregun_Reload_A_MontageTP"
+        },
+        {
+          "Property": "MuzzleParticles",
+          "Type": "ObjectProperty",
+          "Offset": 4027,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4052,
+          "Data Value": "Import:P_Flaregun_Fire"
+        },
+        {
+          "Property": "FireSound",
+          "Type": "ObjectProperty",
+          "Offset": 4056,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4081,
+          "Data Value": "Import:FlareGun_Fire_Cue"
+        },
+        {
+          "Property": "FireForceFeedbackEffect",
+          "Type": "ObjectProperty",
+          "Offset": 4085,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4110,
+          "Data Value": "Import:ShotgunRumble"
+        },
+        {
+          "Property": "NearEmptySound",
+          "Type": "ObjectProperty",
+          "Offset": 4114,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4139,
+          "Data Value": "Import:Pistol_NearEmpty_01_Cue"
+        },
+        {
+          "Property": "WeaponEmptySound",
+          "Type": "ObjectProperty",
+          "Offset": 4143,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4168,
+          "Data Value": "Import:Pistol_Empty_01_Cue"
+        },
+        {
+          "Property": "ShoutShotFired",
+          "Type": "ObjectProperty",
+          "Offset": 4172,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4197,
+          "Data Value": "Import:Shout_LightUp"
+        },
+        {
+          "Property": "MaxAmmo",
+          "Type": "IntProperty",
+          "Offset": 4201,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4226,
+          "Data Value": 12
+        },
+        {
+          "Property": "ClipSize",
+          "Type": "IntProperty",
+          "Offset": 4230,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4255,
+          "Data Value": 3
+        },
+        {
+          "Property": "RateOfFire",
+          "Type": "FloatProperty",
+          "Offset": 4259,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4284,
+          "Data Value": 1.0
+        },
+        {
+          "Property": "ReloadDuration",
+          "Type": "FloatProperty",
+          "Offset": 4288,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4313,
+          "Data Value": 2.4
+        },
+        {
+          "Property": "AutoReloadCompleteCue",
+          "Type": "ObjectProperty",
+          "Offset": 4317,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4342,
+          "Data Value": "Import:FlareGun_Reload_Cue"
+        },
+        {
+          "Property": "AutomaticReload",
+          "Type": "BoolProperty",
+          "Offset": 4346,
+          "Size": 0,
+          "Array Index": 0,
+          "Tag Data": true,
+          "Value Offset": 4370
+        },
+        {
+          "Property": "CanReload",
+          "Type": "BoolProperty",
+          "Offset": 4372,
+          "Size": 0,
+          "Array Index": 0,
+          "Tag Data": true,
+          "Value Offset": 4396
+        },
+        {
+          "Property": "RecoilSettings",
+          "Type": "StructProperty",
+          "Offset": 4398,
+          "Size": 382,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "RecoilSettings",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 4447
+        },
+        {
+          "Property": "Skinnable",
+          "Type": "ObjectProperty",
+          "Offset": 4829,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4854,
+          "Data Value": "Export:Skinnable"
+        },
+        {
+          "Property": "FPMesh",
+          "Type": "ObjectProperty",
+          "Offset": 4858,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4883,
+          "Data Value": "Export:FPMesh"
+        },
+        {
+          "Property": "TPMesh",
+          "Type": "ObjectProperty",
+          "Offset": 4887,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4912,
+          "Data Value": "Export:TPMesh"
+        },
+        {
+          "Property": "FP_EquipAnimation",
+          "Type": "ObjectProperty",
+          "Offset": 4916,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4941,
+          "Data Value": "Import:FP_Assault_Equip_Montage"
+        },
+        {
+          "Property": "TP_EquipAnimation",
+          "Type": "ObjectProperty",
+          "Offset": 4945,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4970,
+          "Data Value": "Import:TP_Assault_EquipDequip_Montage"
+        },
+        {
+          "Property": "EquipDuration",
+          "Type": "FloatProperty",
+          "Offset": 4974,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 4999,
+          "Data Value": 0.5
+        },
+        {
+          "Property": "CharacterAnimationSet",
+          "Type": "ObjectProperty",
+          "Offset": 5003,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 5028,
+          "Data Value": "Import:IAS_Rifle"
+        },
+        {
+          "Property": "SavegameID",
+          "Type": "StructProperty",
+          "Offset": 5032,
+          "Size": 16,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Guid",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 5081,
+          "Data Value": {
+            "GUID": "B3C1E5C6-427340DD-36B3FFA8-AF76CB89"
+          }
+        },
+        {
+          "Property": "ItemID",
+          "Type": "ObjectProperty",
+          "Offset": 5097,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 5122,
+          "Data Value": "Import:ID_FlareGun"
+        },
+        {
+          "Property": "UpgradableItem",
+          "Type": "ObjectProperty",
+          "Offset": 5126,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 5151,
+          "Data Value": "Export:Upgradable"
+        },
+        {
+          "Property": "CameraShake",
+          "Type": "ObjectProperty",
+          "Offset": 5155,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 5180,
+          "Data Value": "Import:CameraShake_Item_Flaregun_C"
+        },
+        {
+          "Property": "RootComponent",
+          "Type": "ObjectProperty",
+          "Offset": 5184,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 5209,
+          "Data Value": "Export:Root"
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "Parent": "Not_UStruct",
+      "Outer": "Default__WPN_FlareGun_C",
+      "Template": "Aggregator",
+      "Class": "AmmoDriveWeaponAggregator",
+      "Object": "Aggregator",
+      "File Offset": 5221,
+      "Struct Size": 12,
+      "Potential Properties": [
+        {
+          "Property": "None",
+          "Offset": 5221,
+          "Size": 0,
+          "Array Index": 0,
+          "Value Offset": 0
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject",
+      "Parent": "Not_UStruct",
+      "Outer": "WPN_FlareGun_C",
+      "Template": "Default__CrosshairAggregator",
+      "Class": "CrosshairAggregator",
+      "Object": "CrosshairAggregator_GEN_VARIABLE",
+      "File Offset": 5233,
+      "Struct Size": 41,
+      "Potential Properties": [
+        {
+          "Property": "CrossHairType",
+          "Type": "ObjectProperty",
+          "Offset": 5233,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 5258,
+          "Data Value": "Import:HUD_CrossHair_FlareGun_C"
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "Parent": "Not_UStruct",
+      "Outer": "Default__WPN_FlareGun_C",
+      "Template": "FPMesh",
+      "Class": "FirstPersonSkeletalMeshComponent",
+      "Object": "FPMesh",
+      "File Offset": 5274,
+      "Struct Size": 185,
+      "Potential Properties": [
+        {
+          "Property": "AnimClass",
+          "Type": "ObjectProperty",
+          "Offset": 5274,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 5299,
+          "Data Value": "Import:ABP_Flaregun_A_C"
+        },
+        {
+          "Property": "SkeletalMesh",
+          "Type": "ObjectProperty",
+          "Offset": 5303,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 5328,
+          "Data Value": "Import:SK_Flaregun_B"
+        },
+        {
+          "Property": "BodyInstance",
+          "Type": "StructProperty",
+          "Offset": 5332,
+          "Size": 37,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "BodyInstance",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 5381
+        },
+        {
+          "Property": "AttachParent",
+          "Type": "ObjectProperty",
+          "Offset": 5418,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 5443,
+          "Data Value": "Export:Root"
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject",
+      "Parent": "Not_UStruct",
+      "Outer": "WPN_FlareGun_C",
+      "Template": "Default__FirstPersonStaticMeshComponent",
+      "Class": "FirstPersonStaticMeshComponent",
+      "Object": "FirstPersonStaticMesh_GEN_VARIABLE",
+      "File Offset": 5459,
+      "Struct Size": 946,
+      "Potential Properties": [
+        {
+          "Property": "StaticMesh",
+          "Type": "ObjectProperty",
+          "Offset": 5459,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 5484,
+          "Data Value": "Import:SM_Screen_007"
+        },
+        {
+          "Property": "OverrideMaterials",
+          "Type": "ArrayProperty",
+          "Offset": 5488,
+          "Size": 16,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "ObjectProperty"
+          },
+          "Value Offset": 5521,
+          "Data Value": {
+            "Count": 3,
+            "Items": [
+              "Import:M_WPN_Flaregun_Metal02",
+              "Import:M_WPN_Flaregun_Metal01",
+              "Import:M_WPN_Flaregun_Grip01"
+            ]
+          }
+        },
+        {
+          "Property": "bReceivesDecals",
+          "Type": "BoolProperty",
+          "Offset": 5537,
+          "Size": 0,
+          "Array Index": 0,
+          "Tag Data": false,
+          "Value Offset": 5561
+        },
+        {
+          "Property": "BodyInstance",
+          "Type": "StructProperty",
+          "Offset": 5563,
+          "Size": 594,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "BodyInstance",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 5612
+        },
+        {
+          "Property": "RelativeLocation",
+          "Type": "StructProperty",
+          "Offset": 6206,
+          "Size": 12,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Vector",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 6255
+        },
+        {
+          "Property": "RelativeRotation",
+          "Type": "StructProperty",
+          "Offset": 6267,
+          "Size": 12,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Rotator",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 6316
+        },
+        {
+          "Property": "RelativeScale3D",
+          "Type": "StructProperty",
+          "Offset": 6328,
+          "Size": 12,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Vector",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 6377
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject",
+      "Parent": "Not_UStruct",
+      "Outer": "WPN_FlareGun_C",
+      "Template": "Default__FirstPersonWidgetComponent",
+      "Class": "FirstPersonWidgetComponent",
+      "Object": "FirstPersonWidget_GEN_VARIABLE",
+      "File Offset": 6405,
+      "Struct Size": 1115,
+      "Potential Properties": [
+        {
+          "Property": "WidgetClass",
+          "Type": "ObjectProperty",
+          "Offset": 6405,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 6430,
+          "Data Value": "Import:WeaponDisplay_FlareGun_AmmoCount_C"
+        },
+        {
+          "Property": "DrawSize",
+          "Type": "StructProperty",
+          "Offset": 6434,
+          "Size": 8,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "IntPoint",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 6483
+        },
+        {
+          "Property": "Pivot",
+          "Type": "StructProperty",
+          "Offset": 6491,
+          "Size": 8,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Vector2D",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 6540
+        },
+        {
+          "Property": "bWindowFocusable",
+          "Type": "BoolProperty",
+          "Offset": 6548,
+          "Size": 0,
+          "Array Index": 0,
+          "Tag Data": false,
+          "Value Offset": 6572
+        },
+        {
+          "Property": "WindowVisibility",
+          "Type": "EnumProperty",
+          "Offset": 6574,
+          "Size": 8,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "EWindowVisibility"
+          },
+          "Value Offset": 6607,
+          "Data Value": "EWindowVisibility::Visible"
+        },
+        {
+          "Property": "BlendMode",
+          "Type": "EnumProperty",
+          "Offset": 6615,
+          "Size": 8,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "EWidgetBlendMode"
+          },
+          "Value Offset": 6648,
+          "Data Value": "EWidgetBlendMode::Opaque"
+        },
+        {
+          "Property": "bReceivesDecals",
+          "Type": "BoolProperty",
+          "Offset": 6656,
+          "Size": 0,
+          "Array Index": 0,
+          "Tag Data": false,
+          "Value Offset": 6680
+        },
+        {
+          "Property": "BodyInstance",
+          "Type": "StructProperty",
+          "Offset": 6682,
+          "Size": 594,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "BodyInstance",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 6731
+        },
+        {
+          "Property": "RelativeLocation",
+          "Type": "StructProperty",
+          "Offset": 7325,
+          "Size": 12,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Vector",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 7374
+        },
+        {
+          "Property": "RelativeRotation",
+          "Type": "StructProperty",
+          "Offset": 7386,
+          "Size": 12,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Rotator",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 7435
+        },
+        {
+          "Property": "RelativeScale3D",
+          "Type": "StructProperty",
+          "Offset": 7447,
+          "Size": 12,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Vector",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 7496
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject",
+      "Parent": "Not_UStruct",
+      "Outer": "WPN_FlareGun_C",
+      "Template": "Default__ProjectileLauncherComponent",
+      "Class": "ProjectileLauncherComponent",
+      "Object": "ProjectileLauncher_GEN_VARIABLE",
+      "File Offset": 7520,
+      "Struct Size": 41,
+      "Potential Properties": [
+        {
+          "Property": "ProjectileClass",
+          "Type": "ObjectProperty",
+          "Offset": 7520,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 7545,
+          "Data Value": "Import:PRJ_FlareGun_Projectile01_C"
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "Parent": "Not_UStruct",
+      "Outer": "Default__WPN_FlareGun_C",
+      "Template": "Root",
+      "Class": "SceneComponent",
+      "Object": "Root",
+      "File Offset": 7561,
+      "Struct Size": 12,
+      "Potential Properties": [
+        {
+          "Property": "None",
+          "Offset": 7561,
+          "Size": 0,
+          "Array Index": 0,
+          "Value Offset": 0
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject",
+      "Parent": "Not_UStruct",
+      "Outer": "WPN_FlareGun_C",
+      "Template": "Default__SceneComponent",
+      "Class": "SceneComponent",
+      "Object": "DefaultSceneRoot_GEN_VARIABLE",
+      "File Offset": 7573,
+      "Struct Size": 12,
+      "Potential Properties": [
+        {
+          "Property": "None",
+          "Offset": 7573,
+          "Size": 0,
+          "Array Index": 0,
+          "Value Offset": 0
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Transactional",
+      "Parent": "Not_UStruct",
+      "Outer": "SimpleConstructionScript_3",
+      "Template": "Default__SCS_Node",
+      "Class": "SCS_Node",
+      "Object": "SCS_Node_1",
+      "File Offset": 7585,
+      "Struct Size": 268,
+      "Potential Properties": [
+        {
+          "Property": "ComponentClass",
+          "Type": "ObjectProperty",
+          "Offset": 7585,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 7610,
+          "Data Value": "Import:FirstPersonStaticMeshComponent"
+        },
+        {
+          "Property": "ComponentTemplate",
+          "Type": "ObjectProperty",
+          "Offset": 7614,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 7639,
+          "Data Value": "Export:FirstPersonStaticMesh_GEN_VARIABLE"
+        },
+        {
+          "Property": "ParentComponentOrVariableName",
+          "Type": "NameProperty",
+          "Offset": 7643,
+          "Size": 8,
+          "Array Index": 0,
+          "Value Offset": 7668,
+          "Data Value": {
+            "Name": "FPMesh"
+          }
+        },
+        {
+          "Property": "bIsParentComponentNative",
+          "Type": "BoolProperty",
+          "Offset": 7676,
+          "Size": 0,
+          "Array Index": 0,
+          "Tag Data": true,
+          "Value Offset": 7700
+        },
+        {
+          "Property": "ChildNodes",
+          "Type": "ArrayProperty",
+          "Offset": 7702,
+          "Size": 8,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "ObjectProperty"
+          },
+          "Value Offset": 7735,
+          "Data Value": {
+            "Count": 1,
+            "Items": [
+              "Export:SCS_Node_3"
+            ]
+          }
+        },
+        {
+          "Property": "VariableGuid",
+          "Type": "StructProperty",
+          "Offset": 7743,
+          "Size": 16,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Guid",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 7792,
+          "Data Value": {
+            "GUID": "E235582A-45F00D67-835C6D96-473219C0"
+          }
+        },
+        {
+          "Property": "InternalVariableName",
+          "Type": "NameProperty",
+          "Offset": 7808,
+          "Size": 8,
+          "Array Index": 0,
+          "Value Offset": 7833,
+          "Data Value": {
+            "Name": "FirstPersonStaticMesh"
+          }
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Transactional",
+      "Parent": "Not_UStruct",
+      "Outer": "SimpleConstructionScript_3",
+      "Template": "Default__SCS_Node",
+      "Class": "SCS_Node",
+      "Object": "SCS_Node_3",
+      "File Offset": 7853,
+      "Struct Size": 168,
+      "Potential Properties": [
+        {
+          "Property": "ComponentClass",
+          "Type": "ObjectProperty",
+          "Offset": 7853,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 7878,
+          "Data Value": "Import:FirstPersonWidgetComponent"
+        },
+        {
+          "Property": "ComponentTemplate",
+          "Type": "ObjectProperty",
+          "Offset": 7882,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 7907,
+          "Data Value": "Export:FirstPersonWidget_GEN_VARIABLE"
+        },
+        {
+          "Property": "VariableGuid",
+          "Type": "StructProperty",
+          "Offset": 7911,
+          "Size": 16,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Guid",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 7960,
+          "Data Value": {
+            "GUID": "A8085F0E-4E9679F5-64099590-618589C1"
+          }
+        },
+        {
+          "Property": "InternalVariableName",
+          "Type": "NameProperty",
+          "Offset": 7976,
+          "Size": 8,
+          "Array Index": 0,
+          "Value Offset": 8001,
+          "Data Value": {
+            "Name": "FirstPersonWidget"
+          }
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Transactional",
+      "Parent": "Not_UStruct",
+      "Outer": "SimpleConstructionScript_3",
+      "Template": "Default__SCS_Node",
+      "Class": "SCS_Node",
+      "Object": "SCS_Node_4",
+      "File Offset": 8021,
+      "Struct Size": 168,
+      "Potential Properties": [
+        {
+          "Property": "ComponentClass",
+          "Type": "ObjectProperty",
+          "Offset": 8021,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 8046,
+          "Data Value": "Import:CrosshairAggregator"
+        },
+        {
+          "Property": "ComponentTemplate",
+          "Type": "ObjectProperty",
+          "Offset": 8050,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 8075,
+          "Data Value": "Export:CrosshairAggregator_GEN_VARIABLE"
+        },
+        {
+          "Property": "VariableGuid",
+          "Type": "StructProperty",
+          "Offset": 8079,
+          "Size": 16,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Guid",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 8128,
+          "Data Value": {
+            "GUID": "F9351C0F-4BC40BC3-AAEDC2AC-CAAA1918"
+          }
+        },
+        {
+          "Property": "InternalVariableName",
+          "Type": "NameProperty",
+          "Offset": 8144,
+          "Size": 8,
+          "Array Index": 0,
+          "Value Offset": 8169,
+          "Data Value": {
+            "Name": "CrosshairAggregator"
+          }
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Transactional",
+      "Parent": "Not_UStruct",
+      "Outer": "SimpleConstructionScript_3",
+      "Template": "Default__SCS_Node",
+      "Class": "SCS_Node",
+      "Object": "SCS_Node_6",
+      "File Offset": 8189,
+      "Struct Size": 168,
+      "Potential Properties": [
+        {
+          "Property": "ComponentClass",
+          "Type": "ObjectProperty",
+          "Offset": 8189,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 8214,
+          "Data Value": "Import:SceneComponent"
+        },
+        {
+          "Property": "ComponentTemplate",
+          "Type": "ObjectProperty",
+          "Offset": 8218,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 8243,
+          "Data Value": "Export:DefaultSceneRoot_GEN_VARIABLE"
+        },
+        {
+          "Property": "VariableGuid",
+          "Type": "StructProperty",
+          "Offset": 8247,
+          "Size": 16,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Guid",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 8296,
+          "Data Value": {
+            "GUID": "AC0B8E4A-440D3721-EA037EA6-E27C0681"
+          }
+        },
+        {
+          "Property": "InternalVariableName",
+          "Type": "NameProperty",
+          "Offset": 8312,
+          "Size": 8,
+          "Array Index": 0,
+          "Value Offset": 8337,
+          "Data Value": {
+            "Name": "DefaultSceneRoot"
+          }
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Transactional",
+      "Parent": "Not_UStruct",
+      "Outer": "SimpleConstructionScript_3",
+      "Template": "Default__SCS_Node",
+      "Class": "SCS_Node",
+      "Object": "SCS_Node_7",
+      "File Offset": 8357,
+      "Struct Size": 168,
+      "Potential Properties": [
+        {
+          "Property": "ComponentClass",
+          "Type": "ObjectProperty",
+          "Offset": 8357,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 8382,
+          "Data Value": "Import:ProjectileLauncherComponent"
+        },
+        {
+          "Property": "ComponentTemplate",
+          "Type": "ObjectProperty",
+          "Offset": 8386,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 8411,
+          "Data Value": "Export:ProjectileLauncher_GEN_VARIABLE"
+        },
+        {
+          "Property": "VariableGuid",
+          "Type": "StructProperty",
+          "Offset": 8415,
+          "Size": 16,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "Guid",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 8464,
+          "Data Value": {
+            "GUID": "F3C6959B-40CC4FB7-DF459FA7-3FE40E25"
+          }
+        },
+        {
+          "Property": "InternalVariableName",
+          "Type": "NameProperty",
+          "Offset": 8480,
+          "Size": 8,
+          "Array Index": 0,
+          "Value Offset": 8505,
+          "Data Value": {
+            "Name": "ProjectileLauncher"
+          }
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Transactional",
+      "Parent": "Not_UStruct",
+      "Outer": "WPN_FlareGun_C",
+      "Template": "Default__SimpleConstructionScript",
+      "Class": "SimpleConstructionScript",
+      "Object": "SimpleConstructionScript_3",
+      "File Offset": 8525,
+      "Struct Size": 143,
+      "Potential Properties": [
+        {
+          "Property": "RootNodes",
+          "Type": "ArrayProperty",
+          "Offset": 8525,
+          "Size": 16,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "ObjectProperty"
+          },
+          "Value Offset": 8558,
+          "Data Value": {
+            "Count": 3,
+            "Items": [
+              "Export:SCS_Node_7",
+              "Export:SCS_Node_4",
+              "Export:SCS_Node_1"
+            ]
+          }
+        },
+        {
+          "Property": "AllNodes",
+          "Type": "ArrayProperty",
+          "Offset": 8574,
+          "Size": 20,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "ObjectProperty"
+          },
+          "Value Offset": 8607,
+          "Data Value": {
+            "Count": 4,
+            "Items": [
+              "Export:SCS_Node_7",
+              "Export:SCS_Node_4",
+              "Export:SCS_Node_1",
+              "Export:SCS_Node_3"
+            ]
+          }
+        },
+        {
+          "Property": "DefaultSceneRootNode",
+          "Type": "ObjectProperty",
+          "Offset": 8627,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 8652,
+          "Data Value": "Export:SCS_Node_6"
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "Parent": "Not_UStruct",
+      "Outer": "Default__WPN_FlareGun_C",
+      "Template": "TPMesh",
+      "Class": "SkeletalMeshComponent",
+      "Object": "TPMesh",
+      "File Offset": 8668,
+      "Struct Size": 185,
+      "Potential Properties": [
+        {
+          "Property": "AnimClass",
+          "Type": "ObjectProperty",
+          "Offset": 8668,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 8693,
+          "Data Value": "Import:ABP_Flaregun_A_C"
+        },
+        {
+          "Property": "SkeletalMesh",
+          "Type": "ObjectProperty",
+          "Offset": 8697,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 8722,
+          "Data Value": "Import:SK_Flaregun_B"
+        },
+        {
+          "Property": "BodyInstance",
+          "Type": "StructProperty",
+          "Offset": 8726,
+          "Size": 37,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "BodyInstance",
+            "GUID": "0-0-0-0"
+          },
+          "Value Offset": 8775
+        },
+        {
+          "Property": "AttachParent",
+          "Type": "ObjectProperty",
+          "Offset": 8812,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 8837,
+          "Data Value": "Export:Root"
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "Parent": "Not_UStruct",
+      "Outer": "Default__WPN_FlareGun_C",
+      "Template": "Skinnable",
+      "Class": "SkinnableComponent",
+      "Object": "Skinnable",
+      "File Offset": 8853,
+      "Struct Size": 12,
+      "Potential Properties": [
+        {
+          "Property": "None",
+          "Offset": 8853,
+          "Size": 0,
+          "Array Index": 0,
+          "Value Offset": 0
+        }
+      ]
+    },
+    {
+      "Object Flags": "RF_Public, RF_Transactional, RF_ArchetypeObject, RF_DefaultSubObject",
+      "Parent": "Not_UStruct",
+      "Outer": "Default__WPN_FlareGun_C",
+      "Template": "Upgradable",
+      "Class": "UpgradableItemComponent",
+      "Object": "Upgradable",
+      "File Offset": 8865,
+      "Struct Size": 911,
+      "Potential Properties": [
+        {
+          "Property": "UpgradeTiers",
+          "Type": "ArrayProperty",
+          "Offset": 8865,
+          "Size": 390,
+          "Array Index": 0,
+          "Tag Data": {
+            "Name": "StructProperty"
+          },
+          "Value Offset": 8898,
+          "Data Value": {
+            "Count": 3,
+            "Items": []
+          }
+        },
+        {
+          "Property": "IconLine",
+          "Type": "ObjectProperty",
+          "Offset": 9288,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 9313,
+          "Data Value": "Import:GearIcon_Flaregun_Border"
+        },
+        {
+          "Property": "IconBG",
+          "Type": "ObjectProperty",
+          "Offset": 9317,
+          "Size": 4,
+          "Array Index": 0,
+          "Value Offset": 9342,
+          "Data Value": "Import:GearIcon_Flaregun_Full"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "SoftObjectProperty",
+          "Offset": 9346,
+          "Size": 12,
+          "Array Index": 0,
+          "Value Offset": 9371,
+          "Data Value": {
+            "ObjectName": "/Game/UI/Menu_Loadout/Assets/GearGraphic_FlareGun.GearGraphic_FlareGun",
+            "unk1": 0
+          }
+        },
+        {
+          "Property": "PreviewActor",
+          "Type": "SoftObjectProperty",
+          "Offset": 9383,
+          "Size": 12,
+          "Array Index": 0,
+          "Value Offset": 9408,
+          "Data Value": {
+            "ObjectName": "/Game/WeaponsNTools/FlareGun/PRW_FlareGun.PRW_FlareGun_C",
+            "unk1": 0
+          }
+        },
+        {
+          "Property": "Name",
+          "Type": "TextProperty",
+          "Offset": 9420,
+          "Size": 61,
+          "Array Index": 0,
+          "Value Offset": 9445
+        },
+        {
+          "Property": "Category",
+          "Type": "TextProperty",
+          "Offset": 9506,
+          "Size": 29,
+          "Array Index": 0,
+          "Value Offset": 9531
+        },
+        {
+          "Property": "Description",
+          "Type": "TextProperty",
+          "Offset": 9560,
+          "Size": 179,
+          "Array Index": 0,
+          "Value Offset": 9585
+        }
+      ]
+    }
+  ]
+}
