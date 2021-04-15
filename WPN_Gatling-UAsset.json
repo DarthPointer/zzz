@@ -523,7 +523,7 @@
     {
       "Index": 66,
       "FileOffset": "0x1251",
-      "Name": "/Game/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_A_CooldownRate",
+      "Name": "/Game/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_D_SpindownTime",
       "NonCasePreservingHash": "0x4E15",
       "CasePreservingHash": "0x2CEF"
     },
@@ -579,7 +579,7 @@
     {
       "Index": 74,
       "FileOffset": "0x1492",
-      "Name": "/Game/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_D_SpindownTime",
+      "Name": "/Game/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_A_CooldownRate",
       "NonCasePreservingHash": "0x362C",
       "CasePreservingHash": "0xAADB"
     },
@@ -4233,7 +4233,7 @@
     {
       "Index": 596,
       "FileOffset": "0x4F61",
-      "Name": "UPG_Gatling_A_CooldownRate",
+      "Name": "UPG_Gatling_D_SpindownTime",
       "NonCasePreservingHash": "0xD145",
       "CasePreservingHash": "0x24C8"
     },
@@ -4289,7 +4289,7 @@
     {
       "Index": 604,
       "FileOffset": "0x5062",
-      "Name": "UPG_Gatling_D_SpindownTime",
+      "Name": "UPG_Gatling_A_CooldownRate",
       "NonCasePreservingHash": "0xA97C",
       "CasePreservingHash": "0xA2FC"
     },
@@ -5141,7 +5141,7 @@
       "ClassPackage": "/Script/FSD",
       "ClassName": "CombinedUpgrade",
       "OuterIndex": -213,
-      "ObjectName": "UPG_Gatling_A_CooldownRate"
+      "ObjectName": "UPG_Gatling_D_SpindownTime"
     },
     {
       "FileOffset": "0x5D8B",
@@ -5155,7 +5155,7 @@
       "ClassPackage": "/Script/FSD",
       "ClassName": "CombinedUpgrade",
       "OuterIndex": -221,
-      "ObjectName": "UPG_Gatling_D_SpindownTime"
+      "ObjectName": "UPG_Gatling_A_CooldownRate"
     },
     {
       "FileOffset": "0x5DC3",
@@ -6149,7 +6149,7 @@
       "ClassPackage": "/Script/CoreUObject",
       "ClassName": "Package",
       "OuterIndex": 0,
-      "ObjectName": "/Game/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_A_CooldownRate"
+      "ObjectName": "/Game/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_D_SpindownTime"
     },
     {
       "FileOffset": "0x6D4B",
@@ -6205,7 +6205,7 @@
       "ClassPackage": "/Script/CoreUObject",
       "ClassName": "Package",
       "OuterIndex": 0,
-      "ObjectName": "/Game/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_D_SpindownTime"
+      "ObjectName": "/Game/WeaponsNTools/GatlingGun/Upgrades/UPG_Gatling_A_CooldownRate"
     },
     {
       "FileOffset": "0x6E2B",
